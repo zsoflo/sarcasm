@@ -10,7 +10,7 @@ from PyQt5.QtWidgets import QApplication, QLabel, QWidget, QPushButton, QVBoxLay
 # pip install PyQt5
 # replace file name by your own
 
-file_path = "C:\\Users\\hfall\\Documents\\M1_TAL_IDMC\\Cours\\S7\\Projet\\annotation\\samba.csv"
+file_path = "../annotations/florian.csv"
 save_path = file_path.split('.csv')[0] + '_save.csv'
 out_path = file_path.split('.csv')[0] + '_out.csv'
 
