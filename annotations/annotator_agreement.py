@@ -24,16 +24,25 @@ for column in df.columns[2:]:
     sarcastic = df[column].sum()
     print(f'  {column}: {sarcastic} ({sarcastic / df.shape[0] * 100.0 :.2f} %)')
 
-agreement = df[df.nunique(1).eq(3)] # 3 because the 3 different values on each line should be : id, tweet, and only one value that's the same for each annotator
+agreement = df[df.nunique(1).eq(3)] # 3 because the 3 different values on each line should be: id, tweet, and only one value that's the same for each annotator
 
 agreement_sarc = agreement.loc[agreement[filepaths[0][:-4]] == 1.0]
 agreement_not_sarc = agreement.loc[agreement[filepaths[0][:-4]] == 0.0]
 
 print()
 print(f"All annotators agreed that these {agreement_sarc.shape[0]} tweets are sarcastic:")
+# Prints the IDs
 print(', '.join(map(str, agreement_sarc['ID'])))
+# Prints the tweets
+# print('\n-----\n'.join(map(str, agreement_sarc['tweet'])))
 
 print()
 print(f"All annotators agreed that these {agreement_not_sarc.shape[0]} tweets are not sarcastic:")
+# Prints the IDs
 print(', '.join(map(str, agreement_not_sarc['ID'])))
+# Prints the tweets
+# print('\n-----\n'.join(map(str, agreement_not_sarc['tweet'])))
 
+print()
+print("Annotations where Maïwenn and Florian disagree, and Maïwenn annotated as not-sarc.:")
+print(df.loc[(df['maiwenn'] != df['florian']) & (df['maiwenn'] == 0.0)])
