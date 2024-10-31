@@ -1,5 +1,5 @@
 # Where to find codes
-We provide in this GitHub repository all the codes used since the beginning of the project. Several of those codes were employed to implement methods that are directly mentionned in the 2nd report of the project. Here is a list of all those codes and their location in repository :
+We provide in this GitHub repository all the codes used since the beginning of the project. Several of those codes were employed to implement methods that are directly mentionned in the 2nd report of the project. Here is a list of all those codes and their location in the repository :
 * The code used to merged the two datasets (Section 2.3 "Merging datasets") is available here : https://github.com/zsoflo/sarcasm/blob/master/corpus/get_data.ipynb
 * The code used to extract the sample of 1000 tweets (Section 3.1 "Sample Extraction") is available here : https://github.com/zsoflo/sarcasm/blob/master/corpus/get_data.ipynb
 * The code used to analyze our annotations with respect to the original ones (Section 3.3 "Agreement with the Intended Sarcasm Annotations") is available here : https://github.com/zsoflo/sarcasm/blob/master/annotations/src/annotation_analysis_compare_inital.ipynb
