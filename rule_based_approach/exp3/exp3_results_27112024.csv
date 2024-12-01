@@ -1,0 +1,43 @@
+ID,original_ID,tweet,sarcastic,rephrase,prediction,correct
+5002.0,test_a_921,"I really loved the drive into work today in the dark, wet, heavy rain",1.0,,1,1
+1377.0,sign_3530,i just looooove getting big cases on friday afternoons,1.0,i just hate getting big cases on friday afternoons,1,1
+3297.0,sign_12376,i just love it when people near and dear to me act like they care that i'm really sick with a fever,1.0,no one seems to care that i'm sick,1,1
+2404.0,train_2773,man I really hate seeing two fucking idiots raising a baby,0.0,,0,1
+10364.0,test_a_873,I really hate being stuck at home thanks to the governments lack of controls on covid in school.,0.0,,0,1
+13608.0,train_2450,I absolutely hate when players do that dumb early celebration nonsense,0.0,,0,1
+4821.0,sign_3549,i absolutely love how my mom doesn't believe a damn word i say,1.0,i really don't like how my mom doesn't believe a damn word i say,1,1
+8042.0,sign_12009,i really love enrollments,1.0,i really hate enrollments,1,1
+15087.0,sign_12389,i just love going down my timeline to see one of my friends post negativety for the last 2 days,1.0,i hate the negative posts on my timeline,1,1
+15507.0,sign_2773,i just love having to get my car towed on a sunday when i work the next day,1.0,i just hate having to get my car towed on a sunday when i work the next day,1,1
+10020.0,sign_4662,and i just love cardio,1.0,i hate cardio,1,1
+17811.0,sign_7181,i just love how people do the total opposite of what my pinned tweet says,1.0,i hate how people do the total opposite of what my pinned tweet says,1,1
+4817.0,sign_12360,i just love walking in the rain,1.0,i don't like walking in the rain,1,1
+3637.0,sign_12712,i always love seeing people in workout clothes smoking,1.0,i always hate seeing people who don t in workout clothes not smoking,1,1
+11809.0,sign_2641,i totally love life so much,1.0,i don t love my life at all,1,1
+14384.0,sign_604,i really love how people have to read the sign out loud as they come in,1.0,i cant stand how people have to read the sign out loud as they come in,1,1
+8867.0,sign_12725,i absolutely love driving all over the place in the rain and lightning,1.0,i don't like driving in bad weather,1,1
+18588.0,sign_3927,i just love it when it storms,1.0,i hate storms,1,1
+2738.0,sign_7863,woop i just love having shitty dreams that make me sad in real life,1.0,i hate bad dreams,1,1
+4555.0,sign_3202,i just love when people that don't live in nyc try to tell me what is and isn't safe in this city,1.0,i am annoyed when people who don't live in nyc talk how it is and about its safety,1,1
+8411.0,sign_12396,i just love getting email addressed as hi gmail or hi first name or similar,1.0,i don't like receiving automated emails,1,1
+8203.0,sign_7147,i so love when people spout out about things they have no idea about,1.0,people shouldn't talk about the things they don't have a clue about,1,1
+17576.0,sign_2401,i just love how my mom takes phone calls while she's filling out her portion of my fafsa sarcasm,1.0,i just hate how my mom takes phone calls while she's filling out her portion of my fafsa,1,1
+11589.0,test_c_35,"I just love Christmas time, when goodwill abounds in every shop",1.0,Why are people so rude and pushy in shops at Christmas?,1,1
+357.0,sign_5468,i really do love it when people copy me,1.0,i really do hate it when people copy me,1,1
+17514.0,train_655,I just love falling up the stairs 😑,1.0,I really don't like falling up the stairs.,1,1
+6774.0,sign_5371,i just love watching sports,1.0,i don t like watching sports,1,1
+16199.0,sign_12359,i just love washing my hands in water piped in from the great arctic melt,1.0,i just hate washing my hands in icy cold water,1,1
+16152.0,sign_11990,i really love it when someone drinks the last of the coffee and doesn't make another pot,1.0,i don't like when people drink all the coffee and don't make more,1,1
+629.0,sign_12405,i just love all the stupid workouts on pinterest,1.0,i do not like the workouts on pinterest,1,1
+10313.0,test_a_1248,"Boy, I sure do love being constantly misgendered by my cis relatives at family gatherings 🙃",1.0,,1,1
+11074.0,train_142,Man I just love it when I'm forced to pitch two games back to back bc our other pitcher didn't show up,1.0,Pitching two games back to back is exhausting.,1,1
+14578.0,sign_14690,i just love when customers make me repeat myself,1.0,i hate when customers make me repeat myself,1,1
+15265.0,train_53,"I just absolutely LOVE how I've got to work outside for the next 3 days in the heatwave.
+
+#sweatingmyballsoff",1.0,I hate working outside in the heat.,1,1
+12485.0,test_a_944,I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!,1.0,,1,1
+995.0,train_2456,i just love everyone posting wholesome pics with their pets when theyre home for break,0.0,,1,0
+4570.0,test_a_848,I just love the smell of one million 😍,0.0,,0,1
+857.0,test_a_731,I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,1.0,,1,1
+,,,0.868421052631579,,,0.9736842105263158
+,,,,,,P-value: 0.032

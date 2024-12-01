@@ -1,0 +1,134 @@
+ID,original_ID,tweet,sarcastic,rephrase,prediction,correct
+6440.0,sign_6941,i looove getting 3 hours of sleep because two jobs,1.0,i hate getting 3 hours of sleep because two jobs,1,1
+12874.0,sign_12479,i hate people who use big words just to make themselves look perspicacious,1.0,i hate people who use big words just to make themselves look perspicacious,0,0
+4295.0,sign_12125,i love that girl who never liked even my dp,1.0,i love that girl who never liked even my dp,1,1
+4147.0,train_2222,I hate that I wasted my whole weekend 😠,0.0,,0,1
+11437.0,sign_5017,i love being ignored,1.0,i hate being ignored,1,1
+719.0,train_2204,I hate this guy so much https://t.co/lHPKXjNLL4,0.0,,1,0
+11335.0,test_c_47,I hate living in such a cold place,0.0,,0,1
+6366.0,test_a_1159,I hate seeing my favourite game company go down the drain.,0.0,,0,1
+5125.0,sign_3595,yes because i loved to be ignored,1.0,yes because i hate to be ignored,1,1
+11902.0,sign_11774,i'm loving the ceasefire in syria,1.0,i'm annoyed with the ceasefire in syria,1,1
+4485.0,test_a_562,I hate it when a restaurant ignores my dietary requirements,0.0,,0,1
+6942.0,train_2031,happy international lesbian day i love loving women 😍,0.0,,0,1
+16693.0,test_a_88,I hate paying so much for gas.,0.0,,0,1
+17788.0,train_402,i hate it here ❤️❤️❤️❤️❤️,1.0,I hate it here. (no emojis),1,1
+9842.0,test_a_1208,I would hate to be stuck in my room for another lockdown,0.0,,1,0
+7624.0,sign_12151,i love scary movies by myself,1.0,i hate watching scary movies alone,1,1
+18634.0,sign_6292,i love this new holding pen approach to security lineups at big airports,1.0,annoyed by this new holding pen approach to security lineups at big airports,1,1
+14115.0,sign_3361,i love when my boyfriend texts me back,1.0,i hate being single forever,0,0
+11709.0,sign_12149,i love shredding lettuce hahaha,1.0,i hate shredding lettuce,0,0
+4516.0,sign_12208,i love how the summer's eve feminine wash commercial focuses on a guy who's insecure about his masculinity,1.0,this commerical's message was all wrong,1,1
+18276.0,sign_5697,i love being sarcastic,1.0,i don't like being sarcastic,1,1
+19618.0,sign_830,i love when i see people get mad at something that's clearly a joke over social media lol,1.0,i hate when i see people get mad at something that's clearly a joke over social media lol,1,1
+12917.0,sign_725,i love when old men cat call me from their work truck in the morning,1.0,i hate when old men cat call me from their work truck in the morning,1,1
+2717.0,sign_12309,i love arbitrary lines going through customs in airports,1.0,i hate arbitrary lines going through customs in airports,1,1
+8399.0,sign_12179,i love listening to my neighbors blast spanish music,1.0,i hate listening to my neighbors blast spanish music,1,1
+300.0,sign_7636,yes i would love a lesson on communism individual who only has reference through the word commie and has never read marx engels,1.0,i have read marx engels and i wouldn't like a lesson about communism,1,1
+19798.0,sign_10334,nothing i love more then coming home to clean something i deep cleaned two days ago,1.0,i hate cleaning things i deep cleaned two days back,0,0
+868.0,sign_5349,i love dashboards which are actually just a tables in a word document or b excel workbooks,1.0,so bored with dashboards which are actually just a tables in a word document or b excel workbooks,1,1
+19840.0,sign_5997,i love silence,1.0,i don't like silence,1,1
+2352.0,sign_4962,i love it when people get nasty with me when i enforce the rules,1.0,i hate it when people get nasty with me when i enforce the rules,1,1
+11388.0,sign_12200,i love insomnia,1.0,i hate insomnia,1,1
+851.0,sign_12087,i love twofaced people,1.0,i hate twofaced people,1,1
+10511.0,sign_7261,yes facebook i'd love to see posts from a year ago today,1.0,yes facebook i'd hate to see posts from a year ago today,1,1
+2648.0,sign_12187,i love it when it's my day off and i get called into work,1.0,i hate it when it's my day off and i get called into work,1,1
+15536.0,sign_7475,i love the urgency we re playing with,1.0,i hate the urgency we re playing with,1,1
+15266.0,sign_5940,oh how i love sitting in a court house to pay a ticket,1.0,oh how i hate sitting in a court house to pay a ticket,1,1
+11226.0,test_a_407,What I would love to tweet right now 👀👀,0.0,,1,0
+10446.0,sign_5435,i love ppl who don't understand my humor,1.0,i hate ppl who don't understand my humor,1,1
+18726.0,sign_3083,i love how everyone is responding to my texts this weekend,1.0,i hate how everyone is responding to my texts this weekend,1,1
+17618.0,test_a_727,I love my friends,0.0,,0,1
+16329.0,sign_2253,i love when my commute consists of people unable to drive while on phones esp when trying to take off my bumper in a parking lot,1.0,i hate when my commute consists of people unable to drive while on phones esp when trying to take off my bumper in a parking lot,1,1
+8216.0,sign_5210,i love the smell of the hospital er at 3 am,1.0,i hate the smell of the hospital er at 3 am,1,1
+1848.0,sign_7093,i love when my joints randomly click pop during simple movements,1.0,hate when my joints randomly click pop during simple movements,1,1
+121.0,sign_1275,i love how retweets show up in the what i missed section now,1.0,i hate how retweets show up in the what i missed section now,1,1
+13604.0,train_921,i love shoegaze sm,0.0,,0,1
+19497.0,train_284,I love days when Rob works short call and is only at the hospital for *checks watch* 13 hours.,1.0,I hate when Rob works short call and is still at the hospital for 13+ hours.,1,1
+17988.0,sign_4470,things i love people being wishy washy,1.0,things i hate people being wishy washy,1,1
+8386.0,sign_2660,i love testing my patience grocery shopping at walmart on a sunday night,1.0,i hate testing my patience grocery shopping at walmart on a sunday night,1,1
+13839.0,sign_13143,gosh i love 17 hour work days,1.0,i hate long days,1,1
+546.0,train_109,"I love it when drunk, inconsiderate flatmates come back and start climbing on the roof #istillhaveexams #tryingtosleep",1.0,It’s awful that my flat mates have come back drunk and are on the roof when I have an exam tomorrow,1,1
+14028.0,sign_12059,i love when people think the rules don't apply to them,1.0,i hate when people think the rules don't apply to them,1,1
+2517.0,sign_1443,i love how corporations like to do the bare minimum that ada allows,1.0,i hate how corporations like to do the bare minimum that ada allows,1,1
+3981.0,sign_12142,i love summers with no air con,1.0,i hate summers with no air con,1,1
+14719.0,sign_12081,i love waking up to the call of the dying smoke detector,1.0,smoke detector woke me up and i'm not happy,1,1
+9930.0,sign_12280,i love being too mentally ill to email my mental health care provider,1.0,i don't like being mentally ill,1,1
+11488.0,sign_12131,i love texting people something important and them not texting me back,1.0,why can't people reply to texts ?,1,1
+18485.0,sign_12267,i love getting drawn on at work especially my face,1.0,i hate getting drawn on at work especially not my face,1,1
+12191.0,sign_10075,ohhhh atlanta how i love your traffic,1.0,i hate atlanta traffic,1,1
+76.0,sign_12311,i love 2 hour nosebleeds level 100,1.0,two hour nosebleeds are horrible,1,1
+12396.0,sign_12097,i love the way you lie,1.0,i hate the way you lie,1,1
+5641.0,sign_331,i love when they run the same commercial twice in a row,1.0,i hate when they run the same commercial twice in a row,1,1
+15058.0,test_a_1398,"I love it when women are referred to as ""girl boss"" however men are just the ""boss""!",1.0,,1,1
+18688.0,train_2953,"I love asking my boyfriend, the biology student, really complicated physics questions and seeings his brain melt",0.0,,1,0
+8484.0,sign_6396,i love homework,1.0,i hate homework,1,1
+17770.0,sign_12068,i love when my boss asks me to work when she clearly knows i'm blocked,1.0,i hate it when my boss asks me to work when she clearly knows i'm blocked,1,1
+9318.0,sign_5314,i would love to guard steph curry,1.0,i wouldn't be excited to guard steph curry,1,1
+11428.0,sign_1567,i love how relevant nebraska's primary will be next week,1.0,nebraska's primary next week will not be relevant at all,0,0
+2680.0,sign_12246,i love having people in my life that only get a hold of me when they want something or want to vent or complain,1.0,i hate that people only contact me when i can help them with something,1,1
+18870.0,sign_4213,i love it when people don't reply,1.0,sucks to realise that the espn 3 stream is more than a minute behind the actual play,1,1
+18441.0,sign_14477,ah yes i love replacing a tire at 9 in the morning,1.0,oh no i hate replacing a tire at 9 in the morning,1,1
+5192.0,sign_7151,i love when people don't stop talking to the cashier when people are trying to close up shop,1.0,i hate when people don't stop talking to the cashier when people are trying to close up shop,1,1
+11357.0,sign_1932,i love it when customers tell me who to vote for,1.0,i cannot stand when customers tell me who to vote for,1,1
+10522.0,sign_5136,i love watching plane crash coverage at the airport,1.0,i hate it when i am made to see a plane crash coverage while on an airport,1,1
+4981.0,sign_5001,i love that i am over 40 years old amp some people still talk to me like i'm a child,1.0,i hate that besides being 40 some people talk to me like a child,1,1
+827.0,test_a_849,Wow I love it when rich people get stuff for free.,1.0,,1,1
+10882.0,sign_12170,i love listening to others bitch about work while i'm running around doing everything,1.0,i hate when people complain and i have to do their job,1,1
+14016.0,sign_6575,i love the fact i can't go to sleep when i get off,1.0,i hate the fact i can't go to sleep when i get off,1,1
+8343.0,sign_12260,i love getting up this early to fly to work,1.0,i don't like getting up this early to fly to work,1,1
+9752.0,sign_12289,i love being super wellspoken and just having days where everything gets mixed up or botched,1.0,i hate the days when i mess up everything,1,1
+5039.0,sign_12191,i love it when i have to beg for my paycheck,1.0,i really shouldn't have to beg for my pay check,1,1
+7806.0,sign_1161,i love traffic,1.0,i hate traffic,1,1
+5037.0,sign_2160,i love nights where i'm tired but sleep doesn't come,1.0,i hate nights where i'm tired but sleep doesn't come,1,1
+9190.0,train_2824,i love smoothies bc u can really eat half a bag of spinach and just not taste it at all,0.0,,1,0
+15490.0,train_1597,@kristenritch YES I love sandwich and enneagram,0.0,,0,1
+10321.0,sign_4327,hail in summer i love british weather,1.0,hate british weather,1,1
+18154.0,sign_1651,oh i do love it when people go quiet when you don't tell them exactly what they want to hear,1.0,ugh i do hate it when people go quiet when you don't tell them exactly what they want to hear,0,0
+10982.0,sign_4997,obviously i love having to do all of this all over again and edit out 10000 ahms another time,1.0,obviously i hate having to do all of this all over again and edit out 10000 ahms another time,1,1
+16217.0,sign_7753,yay i love it when my parents ridicule me,1.0,i hate when my parents complain about me,1,1
+1550.0,sign_1879,i love the sound of bitching in the morning,1.0,i hate the sound of bitching in the morning,1,1
+3277.0,sign_7651,yep i love going out in public covered in dirt and sweat,1.0,i don't like going out in public looking gross,1,1
+13820.0,sign_12163,i love rainwater tanks with centre posts,1.0,i hate rainwater tanks with centre posts,1,1
+6562.0,sign_801,i love holidays that just are used for people to party,1.0,i hate holidays that just are used for people to party,1,1
+1903.0,sign_12216,i love how president obama is endorsing someone under investigation by the fbi,1.0,i'm not happy that obama endorsed hillary,1,1
+12020.0,sign_7014,i love getting phone calls after work to come dd,1.0,i hate receiving phone calls after work to come dd,1,1
+670.0,sign_12093,i love this cough i have,1.0,i hate being sick,1,1
+18711.0,sign_10188,oh how i love going to work,1.0,i hate working,1,1
+3801.0,sign_12075,i love when i can't sleep,1.0,i hate when i can't sleep,1,1
+1657.0,sign_12220,i love how people stop fucking with you once you ask for money,1.0,i hate that people cut off contact when you ask for money,1,1
+3006.0,sign_10194,oh how i love drunks,1.0,i hate drunks,1,1
+6593.0,sign_12270,i love driving all day,1.0,i hate driving all day,1,1
+3581.0,sign_7053,i love going all day without any texts,1.0,i hate going all day without any texts,1,1
+11287.0,train_695,I do love it when my mum makes me spend my savings on beer 😒,1.0,I really hate it when my mum makes me give her my savings so she can buy beer.,1,1
+13986.0,sign_12158,i love running errands during rush hour,1.0,i hate running errands during rush hour,1,1
+5646.0,train_2892,I love how Javer only started to suspect Jean Valjean was the mayor bc of his big beefy muscles,0.0,,1,0
+3645.0,sign_4407,man i love talking to kids who pretend they know everything,1.0,man i hate talking to kids who pretend they know everything,1,1
+14224.0,train_82,i love ingesting poison and then wondering why my tummy is rumbling the next morning,1.0,Every time I drink I wake up with an upset stomach,1,1
+19885.0,sign_5406,oh i love when people waste my time and fucking energy,1.0,oh i hate when people waste my time and fucking energy,1,1
+11708.0,sign_12062,i love when my dad scans the radio the whole way to our destination,1.0,i hate when my dad scans the radio the whole way to our destination,1,1
+10166.0,train_3320,i love the word junction,0.0,,1,0
+3882.0,train_2531,Idk why but I love comfortable silence,0.0,,1,0
+1091.0,train_906,i love talking about feminism when I'm drunk,0.0,,1,0
+19559.0,train_2771,i love my life,0.0,,1,0
+8112.0,sign_901,i love when people who are supposedly close to you plan stuff and tell everyone first before you,1.0,i hate when people who are supposedly close to you plan stuff and tell everyone first before you,1,1
+11862.0,sign_3270,i love waking up at 4 30 and not being able to fall back to sleep because of hiccups,1.0,i hate waking up at 4 30 and not being able to fall back to sleep because of hiccups,1,1
+19651.0,train_2915,i love how quiet it gets when it snows,0.0,,1,0
+6869.0,train_2810,i love my friends,0.0,,0,1
+17300.0,sign_12241,i love how as soon as i start drinking i forget to filter the shit that comes out of my mouth,1.0,i hate that i can't control my mouth,1,1
+10137.0,train_161,wow i love only ever buying gray and striped shirts,1.0,I wish I didn't just buy gray and striped shirts.,1,1
+13064.0,sign_12073,i love when i hide things from myself,1.0,i hate hiding things from myself,1,1
+17721.0,train_677,I love it when someone criticses my parenting then their adult son cuts his finger off with a knife and breaks his leg by falling off a bike,1.0,Don't criticise me when your ADULT son can't ride a bike without falling off OR use a knife!,1,1
+17396.0,train_228,I love when I start choking on my water in my 8 person class,1.0,It was embarrassing when I choked on water in front of my class.,1,1
+889.0,test_a_895,I love it when my neighbours children block the drive because they can’t cook their own meals every single day!!!,1.0,,1,1
+156.0,train_3447,i love talking to people about books !!!,0.0,,0,1
+13002.0,train_2021,"I love professional wrestling, y'all",0.0,,0,1
+15993.0,train_517,I love when I learn about stuff I've apparently done and said from people😂,1.0,I absolutely hate when I learn about things I have done from other people.,1,1
+3741.0,test_a_1256,I would love a pet woolly mammoth,0.0,,1,0
+5211.0,train_682,i love 6 hour panic attacks,1.0,I don't like having 6-hour panic attacks.,1,1
+19299.0,train_2654,I LOVE LORDE GOODNIGHT,0.0,,0,1
+7159.0,train_2825,i LOVE grocery shopping,0.0,,1,0
+13743.0,train_2657,i love video games,0.0,,0,1
+6082.0,train_2408,@OfficialPLT I'd love to get some awesome activewear to go with my t-shirt and help me in my May challenge for @Shelter 😁🤞🏼 https://t.co/8NceX1fgTF,0.0,,0,1
+,,,0.7862595419847328,,,0.8549618320610687
+,,,,,,P-value: 0.031
