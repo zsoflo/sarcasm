@@ -1,10 +1,16 @@
 # Where to find codes
-We provide in this GitHub repository all the codes used since the beginning of the project. Several of those codes were employed to implement methods that are directly mentionned in the 2nd report of the project. Here is a list of all those codes and their location in the repository :
+We provide in this GitHub repository all the codes used since the beginning of the project. Several of those codes were employed to implement methods that are directly mentionned in the 3rd report of the project. Here is a list of all those codes and their location in the repository :
 * The code used to merged the two datasets (Section 2.3 "Merging datasets") is available here : https://github.com/zsoflo/sarcasm/blob/master/corpus/get_data.ipynb
-* The code used to extract the sample of 1000 tweets (Section 3.1 "Sample Extraction") is available here : https://github.com/zsoflo/sarcasm/blob/master/corpus/get_data.ipynb
-* The code used to analyze our annotations with respect to the original ones (Section 3.3 "Agreement with the Intended Sarcasm Annotations") is available here : https://github.com/zsoflo/sarcasm/blob/master/annotations/src/annotation_analysis_compare_inital.ipynb
-* The code used to measure the IAA between us (Section 3.4 "Inter-Annotator Agreement (IAA)") is available here : https://github.com/zsoflo/sarcasm/blob/master/annotations/src/IAA_krippendorff.ipynb
-* The code used for the rule-based approach (Section 4.1 "Classifier architecture" and 4.2 "Experiments") is available here : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp1.ipynb
+* The code used for the setting-up (Section 3.2 "Experiments") and the performance evaluation (Section 4 "Results") of the experiments is available here :
+  - For Exp.1 : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp1/exp1.ipynb
+  - For Exp.2 : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp2/exp2.ipynb
+  - For Exp.3 : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp3/exp3.ipynb
+  - For Exp.4 : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp4/exp4.ipynb
+  - For Exp.5 : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp5/exp5.ipynb
+* The code use to generate the artificial version of Exp.1 and compare it with the original Exp.1 is available here : https://github.com/zsoflo/sarcasm/blob/master/rule_based_approach/exp1/compare_exp1_with_exp1_no_subject.ipynb
+* The code used to extract the sample of 1000 tweets (Section 7.2.1 "Sample Extraction") is available here : https://github.com/zsoflo/sarcasm/blob/master/corpus/get_data.ipynb
+* The code used to analyze our annotations with respect to the original ones (Section 7.2.3 "Agreement with the Intended Sarcasm Annotations") is available here : https://github.com/zsoflo/sarcasm/blob/master/annotations/src/annotation_analysis_compare_inital.ipynb
+* The code used to measure the IAA between us (Section 7.2.4 "Inter-Annotator Agreement (IAA)") is available here : https://github.com/zsoflo/sarcasm/blob/master/annotations/src/IAA_krippendorff.ipynb
 
 <!--
 # FOR US
