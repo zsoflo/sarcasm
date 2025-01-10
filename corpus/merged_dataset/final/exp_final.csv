@@ -1,0 +1,765 @@
+ID,original_ID,tweet,modified_tweet,sarcastic,rephrase,exp
+6440,sign_6941,i looove getting 3 hours of sleep because two jobs,i looove getting 3 hours of sleep because two jobs,1,i hate getting 3 hours of sleep because two jobs,exp1
+12874,sign_12479,i hate people who use big words just to make themselves look perspicacious,i hate people who use big words just to make themselves look perspicacious,1,i hate people who use big words just to make themselves look perspicacious,exp1
+4295,sign_12125,i love that girl who never liked even my dp,i love that girl who never liked even my dp,1,i love that girl who never liked even my dp,exp1
+4147,train_2222,I hate that I wasted my whole weekend 😠,I hate that I wasted my whole weekend 😠,0,,exp1
+11437,sign_5017,i love being ignored,i love being ignored,1,i hate being ignored,exp1
+719,train_2204,I hate this guy so much https://t.co/lHPKXjNLL4,I hate this guy so much,0,,exp1
+11335,test_c_47,I hate living in such a cold place,I hate living in such a cold place,0,,exp1
+6366,test_a_1159,I hate seeing my favourite game company go down the drain.,I hate seeing my favourite game company go down the drain.,0,,exp1
+5125,sign_3595,yes because i loved to be ignored,yes because i loved to be ignored,1,yes because i hate to be ignored,exp1
+11902,sign_11774,i'm loving the ceasefire in syria,i'm loving the ceasefire in syria,1,i'm annoyed with the ceasefire in syria,exp1
+4485,test_a_562,I hate it when a restaurant ignores my dietary requirements,I hate it when a restaurant ignores my dietary requirements,0,,exp1
+16693,test_a_88,I hate paying so much for gas.,I hate paying so much for gas.,0,,exp1
+17788,train_402,i hate it here ❤️❤️❤️❤️❤️,i hate it here ❤️❤️❤️❤️❤️,1,I hate it here. (no emojis),exp1
+9842,test_a_1208,I would hate to be stuck in my room for another lockdown,I would hate to be stuck in my room for another lockdown,0,,exp1
+7624,sign_12151,i love scary movies by myself,i love scary movies by myself,1,i hate watching scary movies alone,exp1
+18634,sign_6292,i love this new holding pen approach to security lineups at big airports,i love this new holding pen approach to security lineups at big airports,1,annoyed by this new holding pen approach to security lineups at big airports,exp1
+14115,sign_3361,i love when my boyfriend texts me back,i love when my boyfriend texts me back,1,i hate being single forever,exp1
+4516,sign_12208,i love how the summer's eve feminine wash commercial focuses on a guy who's insecure about his masculinity,i love how the summer's eve feminine wash commercial focuses on a guy who's insecure about his masculinity,1,this commerical's message was all wrong,exp1
+18276,sign_5697,i love being sarcastic,i love being sarcastic,1,i don't like being sarcastic,exp1
+12917,sign_725,i love when old men cat call me from their work truck in the morning,i love when old men cat call me from their work truck in the morning,1,i hate when old men cat call me from their work truck in the morning,exp1
+2717,sign_12309,i love arbitrary lines going through customs in airports,i love arbitrary lines going through customs in airports,1,i hate arbitrary lines going through customs in airports,exp1
+8399,sign_12179,i love listening to my neighbors blast spanish music,i love listening to my neighbors blast spanish music,1,i hate listening to my neighbors blast spanish music,exp1
+300,sign_7636,yes i would love a lesson on communism individual who only has reference through the word commie and has never read marx engels,yes i would love a lesson on communism individual who only has reference through the word commie and has never read marx engels,1,i have read marx engels and i wouldn't like a lesson about communism,exp1
+19798,sign_10334,nothing i love more then coming home to clean something i deep cleaned two days ago,nothing i love more then coming home to clean something i deep cleaned two days ago,1,i hate cleaning things i deep cleaned two days back,exp1
+868,sign_5349,i love dashboards which are actually just a tables in a word document or b excel workbooks,i love dashboards which are actually just a tables in a word document or b excel workbooks,1,so bored with dashboards which are actually just a tables in a word document or b excel workbooks,exp1
+19840,sign_5997,i love silence,i love silence,1,i don't like silence,exp1
+2352,sign_4962,i love it when people get nasty with me when i enforce the rules,i love it when people get nasty with me when i enforce the rules,1,i hate it when people get nasty with me when i enforce the rules,exp1
+11388,sign_12200,i love insomnia,i love insomnia,1,i hate insomnia,exp1
+851,sign_12087,i love twofaced people,i love twofaced people,1,i hate twofaced people,exp1
+10511,sign_7261,yes facebook i'd love to see posts from a year ago today,yes facebook i'd love to see posts from a year ago today,1,yes facebook i'd hate to see posts from a year ago today,exp1
+2648,sign_12187,i love it when it's my day off and i get called into work,i love it when it's my day off and i get called into work,1,i hate it when it's my day off and i get called into work,exp1
+15536,sign_7475,i love the urgency we re playing with,i love the urgency we re playing with,1,i hate the urgency we re playing with,exp1
+15266,sign_5940,oh how i love sitting in a court house to pay a ticket,oh how i love sitting in a court house to pay a ticket,1,oh how i hate sitting in a court house to pay a ticket,exp1
+11226,test_a_407,What I would love to tweet right now 👀👀,What I would love to tweet right now 👀👀,0,,exp1
+10446,sign_5435,i love ppl who don't understand my humor,i love ppl who don't understand my humor,1,i hate ppl who don't understand my humor,exp1
+18726,sign_3083,i love how everyone is responding to my texts this weekend,i love how everyone is responding to my texts this weekend,1,i hate how everyone is responding to my texts this weekend,exp1
+17618,test_a_727,I love my friends,I love my friends,0,,exp1
+16329,sign_2253,i love when my commute consists of people unable to drive while on phones esp when trying to take off my bumper in a parking lot,i love when my commute consists of people unable to drive while on phones esp when trying to take off my bumper in a parking lot,1,i hate when my commute consists of people unable to drive while on phones esp when trying to take off my bumper in a parking lot,exp1
+8216,sign_5210,i love the smell of the hospital er at 3 am,i love the smell of the hospital er at 3 am,1,i hate the smell of the hospital er at 3 am,exp1
+1848,sign_7093,i love when my joints randomly click pop during simple movements,i love when my joints randomly click pop during simple movements,1,hate when my joints randomly click pop during simple movements,exp1
+121,sign_1275,i love how retweets show up in the what i missed section now,i love how retweets show up in the what i missed section now,1,i hate how retweets show up in the what i missed section now,exp1
+19497,train_284,I love days when Rob works short call and is only at the hospital for *checks watch* 13 hours.,I love days when Rob works short call and is only at the hospital for *checks watch* 13 hours.,1,I hate when Rob works short call and is still at the hospital for 13+ hours.,exp1
+17988,sign_4470,things i love people being wishy washy,things i love people being wishy washy,1,things i hate people being wishy washy,exp1
+8386,sign_2660,i love testing my patience grocery shopping at walmart on a sunday night,i love testing my patience grocery shopping at walmart on a sunday night,1,i hate testing my patience grocery shopping at walmart on a sunday night,exp1
+13839,sign_13143,gosh i love 17 hour work days,gosh i love 17 hour work days,1,i hate long days,exp1
+546,train_109,"I love it when drunk, inconsiderate flatmates come back and start climbing on the roof #istillhaveexams #tryingtosleep","I love it when drunk, inconsiderate flatmates come back and start climbing on the roof",1,It’s awful that my flat mates have come back drunk and are on the roof when I have an exam tomorrow,exp1
+14028,sign_12059,i love when people think the rules don't apply to them,i love when people think the rules don't apply to them,1,i hate when people think the rules don't apply to them,exp1
+2517,sign_1443,i love how corporations like to do the bare minimum that ada allows,i love how corporations like to do the bare minimum that ada allows,1,i hate how corporations like to do the bare minimum that ada allows,exp1
+3981,sign_12142,i love summers with no air con,i love summers with no air con,1,i hate summers with no air con,exp1
+14719,sign_12081,i love waking up to the call of the dying smoke detector,i love waking up to the call of the dying smoke detector,1,smoke detector woke me up and i'm not happy,exp1
+9930,sign_12280,i love being too mentally ill to email my mental health care provider,i love being too mentally ill to email my mental health care provider,1,i don't like being mentally ill,exp1
+11488,sign_12131,i love texting people something important and them not texting me back,i love texting people something important and them not texting me back,1,why can't people reply to texts ?,exp1
+18485,sign_12267,i love getting drawn on at work especially my face,i love getting drawn on at work especially my face,1,i hate getting drawn on at work especially not my face,exp1
+12191,sign_10075,ohhhh atlanta how i love your traffic,ohhhh atlanta how i love your traffic,1,i hate atlanta traffic,exp1
+76,sign_12311,i love 2 hour nosebleeds level 100,i love 2 hour nosebleeds level 100,1,two hour nosebleeds are horrible,exp1
+12396,sign_12097,i love the way you lie,i love the way you lie,1,i hate the way you lie,exp1
+5641,sign_331,i love when they run the same commercial twice in a row,i love when they run the same commercial twice in a row,1,i hate when they run the same commercial twice in a row,exp1
+15058,test_a_1398,"I love it when women are referred to as ""girl boss"" however men are just the ""boss""!","I love it when women are referred to as ""girl boss"" however men are just the ""boss""!",1,,exp1
+18688,train_2953,"I love asking my boyfriend, the biology student, really complicated physics questions and seeings his brain melt","I love asking my boyfriend, the biology student, really complicated physics questions and seeings his brain melt",0,,exp1
+8484,sign_6396,i love homework,i love homework,1,i hate homework,exp1
+17770,sign_12068,i love when my boss asks me to work when she clearly knows i'm blocked,i love when my boss asks me to work when she clearly knows i'm blocked,1,i hate it when my boss asks me to work when she clearly knows i'm blocked,exp1
+9318,sign_5314,i would love to guard steph curry,i would love to guard steph curry,1,i wouldn't be excited to guard steph curry,exp1
+11428,sign_1567,i love how relevant nebraska's primary will be next week,i love how relevant nebraska's primary will be next week,1,nebraska's primary next week will not be relevant at all,exp1
+2680,sign_12246,i love having people in my life that only get a hold of me when they want something or want to vent or complain,i love having people in my life that only get a hold of me when they want something or want to vent or complain,1,i hate that people only contact me when i can help them with something,exp1
+18870,sign_4213,i love it when people don't reply,i love it when people don't reply,1,sucks to realise that the espn 3 stream is more than a minute behind the actual play,exp1
+18441,sign_14477,ah yes i love replacing a tire at 9 in the morning,ah yes i love replacing a tire at 9 in the morning,1,oh no i hate replacing a tire at 9 in the morning,exp1
+5192,sign_7151,i love when people don't stop talking to the cashier when people are trying to close up shop,i love when people don't stop talking to the cashier when people are trying to close up shop,1,i hate when people don't stop talking to the cashier when people are trying to close up shop,exp1
+11357,sign_1932,i love it when customers tell me who to vote for,i love it when customers tell me who to vote for,1,i cannot stand when customers tell me who to vote for,exp1
+10522,sign_5136,i love watching plane crash coverage at the airport,i love watching plane crash coverage at the airport,1,i hate it when i am made to see a plane crash coverage while on an airport,exp1
+4981,sign_5001,i love that i am over 40 years old amp some people still talk to me like i'm a child,i love that i am over 40 years old & some people still talk to me like i'm a child,1,i hate that besides being 40 some people talk to me like a child,exp1
+827,test_a_849,Wow I love it when rich people get stuff for free.,Wow I love it when rich people get stuff for free.,1,,exp1
+10882,sign_12170,i love listening to others bitch about work while i'm running around doing everything,i love listening to others bitch about work while i'm running around doing everything,1,i hate when people complain and i have to do their job,exp1
+14016,sign_6575,i love the fact i can't go to sleep when i get off,i love the fact i can't go to sleep when i get off,1,i hate the fact i can't go to sleep when i get off,exp1
+8343,sign_12260,i love getting up this early to fly to work,i love getting up this early to fly to work,1,i don't like getting up this early to fly to work,exp1
+9752,sign_12289,i love being super wellspoken and just having days where everything gets mixed up or botched,i love being super wellspoken and just having days where everything gets mixed up or botched,1,i hate the days when i mess up everything,exp1
+5039,sign_12191,i love it when i have to beg for my paycheck,i love it when i have to beg for my paycheck,1,i really shouldn't have to beg for my pay check,exp1
+7806,sign_1161,i love traffic,i love traffic,1,i hate traffic,exp1
+5037,sign_2160,i love nights where i'm tired but sleep doesn't come,i love nights where i'm tired but sleep doesn't come,1,i hate nights where i'm tired but sleep doesn't come,exp1
+9190,train_2824,i love smoothies bc u can really eat half a bag of spinach and just not taste it at all,i love smoothies bc u can really eat half a bag of spinach and just not taste it at all,0,,exp1
+15490,train_1597,@kristenritch YES I love sandwich and enneagram,@user YES I love sandwich and enneagram,0,,exp1
+18154,sign_1651,oh i do love it when people go quiet when you don't tell them exactly what they want to hear,oh i do love it when people go quiet when you don't tell them exactly what they want to hear,1,ugh i do hate it when people go quiet when you don't tell them exactly what they want to hear,exp1
+10982,sign_4997,obviously i love having to do all of this all over again and edit out 10000 ahms another time,obviously i love having to do all of this all over again and edit out 10000 ahms another time,1,obviously i hate having to do all of this all over again and edit out 10000 ahms another time,exp1
+16217,sign_7753,yay i love it when my parents ridicule me,yay i love it when my parents ridicule me,1,i hate when my parents complain about me,exp1
+1550,sign_1879,i love the sound of bitching in the morning,i love the sound of bitching in the morning,1,i hate the sound of bitching in the morning,exp1
+3277,sign_7651,yep i love going out in public covered in dirt and sweat,yep i love going out in public covered in dirt and sweat,1,i don't like going out in public looking gross,exp1
+13820,sign_12163,i love rainwater tanks with centre posts,i love rainwater tanks with centre posts,1,i hate rainwater tanks with centre posts,exp1
+6562,sign_801,i love holidays that just are used for people to party,i love holidays that just are used for people to party,1,i hate holidays that just are used for people to party,exp1
+1903,sign_12216,i love how president obama is endorsing someone under investigation by the fbi,i love how president obama is endorsing someone under investigation by the fbi,1,i'm not happy that obama endorsed hillary,exp1
+12020,sign_7014,i love getting phone calls after work to come dd,i love getting phone calls after work to come dd,1,i hate receiving phone calls after work to come dd,exp1
+670,sign_12093,i love this cough i have,i love this cough i have,1,i hate being sick,exp1
+18711,sign_10188,oh how i love going to work,oh how i love going to work,1,i hate working,exp1
+3801,sign_12075,i love when i can't sleep,i love when i can't sleep,1,i hate when i can't sleep,exp1
+1657,sign_12220,i love how people stop fucking with you once you ask for money,i love how people stop fucking with you once you ask for money,1,i hate that people cut off contact when you ask for money,exp1
+3006,sign_10194,oh how i love drunks,oh how i love drunks,1,i hate drunks,exp1
+6593,sign_12270,i love driving all day,i love driving all day,1,i hate driving all day,exp1
+3581,sign_7053,i love going all day without any texts,i love going all day without any texts,1,i hate going all day without any texts,exp1
+11287,train_695,I do love it when my mum makes me spend my savings on beer 😒,I do love it when my mum makes me spend my savings on beer 😒,1,I really hate it when my mum makes me give her my savings so she can buy beer.,exp1
+13986,sign_12158,i love running errands during rush hour,i love running errands during rush hour,1,i hate running errands during rush hour,exp1
+5646,train_2892,I love how Javer only started to suspect Jean Valjean was the mayor bc of his big beefy muscles,I love how Javer only started to suspect Jean Valjean was the mayor bc of his big beefy muscles,0,,exp1
+3645,sign_4407,man i love talking to kids who pretend they know everything,man i love talking to kids who pretend they know everything,1,man i hate talking to kids who pretend they know everything,exp1
+14224,train_82,i love ingesting poison and then wondering why my tummy is rumbling the next morning,i love ingesting poison and then wondering why my tummy is rumbling the next morning,1,Every time I drink I wake up with an upset stomach,exp1
+19885,sign_5406,oh i love when people waste my time and fucking energy,oh i love when people waste my time and fucking energy,1,oh i hate when people waste my time and fucking energy,exp1
+11708,sign_12062,i love when my dad scans the radio the whole way to our destination,i love when my dad scans the radio the whole way to our destination,1,i hate when my dad scans the radio the whole way to our destination,exp1
+10166,train_3320,i love the word junction,i love the word junction,0,,exp1
+3882,train_2531,Idk why but I love comfortable silence,Idk why but I love comfortable silence,0,,exp1
+1091,train_906,i love talking about feminism when I'm drunk,i love talking about feminism when I'm drunk,0,,exp1
+19559,train_2771,i love my life,i love my life,0,,exp1
+8112,sign_901,i love when people who are supposedly close to you plan stuff and tell everyone first before you,i love when people who are supposedly close to you plan stuff and tell everyone first before you,1,i hate when people who are supposedly close to you plan stuff and tell everyone first before you,exp1
+11862,sign_3270,i love waking up at 4 30 and not being able to fall back to sleep because of hiccups,i love waking up at 4 30 and not being able to fall back to sleep because of hiccups,1,i hate waking up at 4 30 and not being able to fall back to sleep because of hiccups,exp1
+19651,train_2915,i love how quiet it gets when it snows,i love how quiet it gets when it snows,0,,exp1
+6869,train_2810,i love my friends,i love my friends,0,,exp1
+17300,sign_12241,i love how as soon as i start drinking i forget to filter the shit that comes out of my mouth,i love how as soon as i start drinking i forget to filter the shit that comes out of my mouth,1,i hate that i can't control my mouth,exp1
+10137,train_161,wow i love only ever buying gray and striped shirts,wow i love only ever buying gray and striped shirts,1,I wish I didn't just buy gray and striped shirts.,exp1
+13064,sign_12073,i love when i hide things from myself,i love when i hide things from myself,1,i hate hiding things from myself,exp1
+17721,train_677,I love it when someone criticses my parenting then their adult son cuts his finger off with a knife and breaks his leg by falling off a bike,I love it when someone criticses my parenting then their adult son cuts his finger off with a knife and breaks his leg by falling off a bike,1,Don't criticise me when your ADULT son can't ride a bike without falling off OR use a knife!,exp1
+17396,train_228,I love when I start choking on my water in my 8 person class,I love when I start choking on my water in my 8 person class,1,It was embarrassing when I choked on water in front of my class.,exp1
+889,test_a_895,I love it when my neighbours children block the drive because they can’t cook their own meals every single day!!!,I love it when my neighbours children block the drive because they can’t cook their own meals every single day!!!,1,,exp1
+156,train_3447,i love talking to people about books !!!,i love talking to people about books !!!,0,,exp1
+15993,train_517,I love when I learn about stuff I've apparently done and said from people😂,I love when I learn about stuff I've apparently done and said from people😂,1,I absolutely hate when I learn about things I have done from other people.,exp1
+3741,test_a_1256,I would love a pet woolly mammoth,I would love a pet woolly mammoth,0,,exp1
+5211,train_682,i love 6 hour panic attacks,i love 6 hour panic attacks,1,I don't like having 6-hour panic attacks.,exp1
+19299,train_2654,I LOVE LORDE GOODNIGHT,I LOVE LORDE GOODNIGHT,0,,exp1
+7159,train_2825,i LOVE grocery shopping,i LOVE grocery shopping,0,,exp1
+13743,train_2657,i love video games,i love video games,0,,exp1
+6082,train_2408,@OfficialPLT I'd love to get some awesome activewear to go with my t-shirt and help me in my May challenge for @Shelter 😁🤞🏼 https://t.co/8NceX1fgTF,@user I'd love to get some awesome activewear to go with my t-shirt and help me in my May challenge for @user 😁🤞🏼,0,,exp1
+,lingkling_60772,@Griffin_Lane I'd love to be aboard the 'Sea Bitch' any day #jk #sarcasm,@user I'd love to be aboard the 'Sea Bitch' any day,1,,exp1
+,lingkling_60781,"I love white people singing ""La Bamba"" and pronouncing it ""Lah Bam-bah"" #sarcasm","I love white people singing ""La Bamba"" and pronouncing it ""Lah Bam-bah""",1,,exp1
+,lingkling_60814,I love when people post controversial articles from unreliable sources 😅😒👎🏼 #sarcasm,I love when people post controversial articles from unreliable sources 😅😒👎🏼,1,,exp1
+,lingkling_61079,"I love today'srap music ""mbadabugadanamada thisisonlydabeegeeeening"" #sarcasm","I love today'srap music ""mbadabugadanamada thisisonlydabeegeeeening""",1,,exp1
+,lingkling_61137,I love when our ball players do stuff to make us look good #sarcasm  https://t.co/ZZOKINYUiU,I love when our ball players do stuff to make us look good,1,,exp1
+,lingkling_61193,I love getting hit on by high schoolers so much. #Sarcasm #GonnaBeATeacher #awkward #savage,I love getting hit on by high schoolers so much.,1,,exp1
+,lingkling_61216,I love walking outside for no reason when it feels like 90° out #Sarcasm,I love walking outside for no reason when it feels like 90° out,1,,exp1
+,lingkling_61312,I love my life. #sarcasm,I love my life.,1,,exp1
+,lingkling_61352,I love how they're replacing the immigrant on the $10 bill but not the presidential disaster on the $20 bill. @usmint @POTUS #sarcasm,I love how they're replacing the immigrant on the $10 bill but not the presidential disaster on the $20 bill. @user @user,1,,exp1
+,lingkling_61420,I love how everyone is texting me 😊 #sarcasm,I love how everyone is texting me 😊,1,,exp1
+,lingkling_61494,I love getting in trouble at work for not picking up after others. #Adulting #Sarcasm,I love getting in trouble at work for not picking up after others.,1,,exp1
+,lingkling_61605,I love how much you respect me 😊😊😊😊😊😊😊😊😊😊😊😊😊 #sarcasm,I love how much you respect me 😊😊😊😊😊😊😊😊😊😊😊😊😊,1,,exp1
+,lingkling_61668,I love emails that wake me up at 3am and then keep me up all night coz of the annoying content #sarcastic #dontyousleep,I love emails that wake me up at 3am and then keep me up all night coz of the annoying content,1,,exp1
+,lingkling_61679,I love how people txt me back #sarcasm #ifeelya #iseeyou,I love how people txt me back,1,,exp1
+,lingkling_61723,I love work so much that I'm missing two concerts this week just to go to work. #Sarcasm 😑,I love work so much that I'm missing two concerts this week just to go to work. 😑,1,,exp1
+,lingkling_61901,@Cassie_Babes_22 i Love it when people try to put their two cents in your relationship as if they had any idea #sarcasm 😒,@user i Love it when people try to put their two cents in your relationship as if they had any idea 😒,1,,exp1
+,lingkling_61928,"I love the song and all but when are women going to take offense at the ""Worth it"" song for portraying men as disposable objects? #sarcasm","I love the song and all but when are women going to take offense at the ""Worth it"" song for portraying men as disposable objects?",1,,exp1
+,lingkling_62056,I LOVE days when it takes me an hour to get to and from work. #sarcasm,I LOVE days when it takes me an hour to get to and from work.,1,,exp1
+,lingkling_62114,I love when guys try to flirt with me at a stop light #sarcasm #likedthetruckthough,I love when guys try to flirt with me at a stop light,1,,exp1
+,lingkling_62169,WOW I LOVE HIGHSCHOOL FOOTBALL #sarcasm,WOW I LOVE HIGHSCHOOL FOOTBALL,1,,exp1
+,lingkling_62201,I LOVE people who don't 'reply all' consistently in emails so I have to keep copying everyone else back in on my responses! #sarcasm,I LOVE people who don't 'reply all' consistently in emails so I have to keep copying everyone else back in on my responses!,1,,exp1
+,lingkling_62309,I love getting shit on by a dinosaur at work for trying not to be a dinosaur. #Sarcasm #WorkFrustration,I love getting shit on by a dinosaur at work for trying not to be a dinosaur.,1,,exp1
+,lingkling_62470,I love how honest my mom is sometimes.😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊 #sarcasm,I love how honest my mom is sometimes.😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊,1,,exp1
+,lingkling_62502,I love how some people misuse professional social media like @LinkedIn to hit on and harrass people they don't know. #sarcasm,I love how some people misuse professional social media like @user to hit on and harrass people they don't know.,1,,exp1
+,lingkling_62540,I love when my mom monitors my Facebook feed and tells me to remove certain posts. #sarcasm,I love when my mom monitors my Facebook feed and tells me to remove certain posts.,1,,exp1
+,lingkling_62619,I love when parents can just tap out of their kids life like its nothing! #sarcasm,I love when parents can just tap out of their kids life like its nothing!,1,,exp1
+,lingkling_62670,I LOVE SIR ORCAJADA #ourcommonhome  #SARCASM,I LOVE SIR ORCAJADA,1,,exp1
+,lingkling_62697,I love waking up a lot earlier than i need to #sarcasm,I love waking up a lot earlier than i need to,1,,exp1
+,lingkling_62961,I love driving to work and then having no one show up to my classes... #Sarcasm #WhyAmIHere,I love driving to work and then having no one show up to my classes...,1,,exp1
+,lingkling_62974,"I love #HypocrisyTwitter 
+
+#sarcasm",I love HypocrosyTwitter,1,,exp1
+,lingkling_62989,"@Twitch I love Twitch because it never breaks down, doesn't have server issues, has no delay, and promotes people with no viewers. #Sarcasm","@user I love Twitch because it never breaks down, doesn't have server issues, has no delay, and promotes people with no viewers.",1,,exp1
+,lingkling_62994,I love waiting in line and having a heavy mouth breather who reeks of stale cigarettes come in right behind you! #sarcasm,I love waiting in line and having a heavy mouth breather who reeks of stale cigarettes come in right behind you!,1,,exp1
+,lingkling_63079,"I love when people open like your snapchat or text and you know they read it, but they won't respond. 😒 #sarcasm","I love when people open like your snapchat or text and you know they read it, but they won't respond. 😒",1,,exp1
+,lingkling_63300,I love getting 5 hours of sleep 👍🏻 #sarcasm #FucktheSandman,I love getting 5 hours of sleep 👍🏻,1,,exp1
+,lingkling_63366,I love when my parents ask me what happened to a girl I talked too 😂 #sarcasm,I love when my parents ask me what happened to a girl I talked too 😂,1,,exp1
+,lingkling_63392,I love it when people lie to make themselves look better than they are. #sarcasm #unbridledjudgement,I love it when people lie to make themselves look better than they are.,1,,exp1
+,lingkling_63459,I love it when Arod (3rd of the game!?!) homers off Perkins in the bottom of the 9th to blow the save. #sarcasm,I love it when Arod (3rd of the game!?!) homers off Perkins in the bottom of the 9th to blow the save.,1,,exp1
+,lingkling_63545,Nothing I love more than spending 2 hours sourcing photos only for your DAM to time you out AND empty your lightbox. #sarcasm,Nothing I love more than spending 2 hours sourcing photos only for your DAM to time you out AND empty your lightbox.,1,,exp1
+,lingkling_63610,I love how there's almost 4 soldiers try a hold back one Palestinian women #prt #sarcasm,I love how there's almost 4 soldiers try a hold back one Palestinian women,1,,exp1
+,lingkling_63824,I love logins. #codeitforward #sarcasm,I love logins.,1,,exp1
+,lingkling_63869,I love watching movies while my boyfriend sleeps #sarcasm,I love watching movies while my boyfriend sleeps,1,,exp1
+,lingkling_63916,I love when people decide to get on my phone and text the guy I like 😀😀😀😀😀😀 #sarcastic,I love when people decide to get on my phone and text the guy I like 😀😀😀😀😀😀,1,,exp1
+,lingkling_63931,i love how unorganised my parents are when it comes to summer holidays #sarcasm,i love how unorganised my parents are when it comes to summer holidays,1,,exp1
+,lingkling_63972,I love it so much when my entire apartment complex loses power! #sarcasm,I love it so much when my entire apartment complex loses power!,1,,exp1
+,lingkling_64177,Wow I love playing phone tag with colleges it's so much fun and not at all a trigger for my anxiety #sarcasm,Wow I love playing phone tag with colleges it's so much fun and not at all a trigger for my anxiety,1,,exp1
+,lingkling_64183,I loveeeee not having power at work #sarcasm,I loveeeee not having power at work,1,,exp1
+,lingkling_64283,I love those group texts where there's 20+ people involved but only two are carrying on a conversation like it's just them. #sarcasm,I love those group texts where there's 20+ people involved but only two are carrying on a conversation like it's just them.,1,,exp1
+,lingkling_64401,Because I love being spoken to like shit at work #sarcasm #livingthedream,Because I love being spoken to like shit at work,1,,exp1
+,lingkling_64447,I love summer allergies #sarcasm #sickofsneezing,I love summer allergies,1,,exp1
+,lingkling_64477,I love working with rationally chilled out people #sarcasm,I love working with rationally chilled out people,1,,exp1
+,lingkling_64481,I love when people say one thing but do another #sarcasm,I love when people say one thing but do another,1,,exp1
+,lingkling_64648,@sprint I LOVE coming to the fake sprint store and being helped by technological novices with smartphones! #sarcasm,@user I LOVE coming to the fake sprint store and being helped by technological novices with smartphones!,1,,exp1
+,lingkling_64729,I love when I'm reading a book and don comes by telling me about a movie he saw. #sarcasm,I love when I'm reading a book and don comes by telling me about a movie he saw.,1,,exp1
+,lingkling_64794,I love how sharing and connected my family is #sarcasm,I love how sharing and connected my family is,1,,exp1
+,lingkling_65070,I love the smell of patchouli in the morning. #sarcasm,I love the smell of patchouli in the morning.,1,,exp1
+,lingkling_65116,God I love annual plan meetings. #sarcasm #specialneeds #backtoschool,God I love annual plan meetings.,1,,exp1
+,lingkling_65235,I love hearing radio guys telling us what's best for the Utah Football program #sarcasm,I love hearing radio guys telling us what's best for the Utah Football program,1,,exp1
+,lingkling_65306,I love it when at family dinners people spend the whole dinner trying to get me to sign up for their fitness class. #sarcasm,I love it when at family dinners people spend the whole dinner trying to get me to sign up for their fitness class.,1,,exp1
+,lingkling_65322,I love it when people over-share. #Sarcasm,I love it when people over-share.,1,,exp1
+,lingkling_65357,"I love how Logitech daisy chains their products through a broken, glitchy, piece of shit program #sarcasm","I love how Logitech daisy chains their products through a broken, glitchy, piece of shit program",1,,exp1
+,lingkling_65358,I love all the people that text me just because #sarcasm,I love all the people that text me just because,1,,exp1
+,lingkling_65393,I love hearing the Disneyland fireworks every night 💥 #sarcasm,I love hearing the Disneyland fireworks every night 💥,1,,exp1
+,lingkling_65434,I love waking up to the sound of Doris Kearns Goodwin lecturing me. #MorningJoe #sarcasm,I love waking up to the sound of Doris Kearns Goodwin lecturing me.,1,,exp1
+,lingkling_65592,I love when a change in plans by someone else completely alters the plan you had #sarcasm,I love when a change in plans by someone else completely alters the plan you had,1,,exp1
+,lingkling_65642,How I love 4 hour delayed flights #sarcasm,How I love 4 hour delayed flights,1,,exp1
+,lingkling_65861,I love when random people who have never interacted with me start following me. #sarcasm #wtf,I love when random people who have never interacted with me start following me.,1,,exp1
+,lingkling_66075,I love working on my day off #sarcasm,I love working on my day off,1,,exp1
+,lingkling_66138,I love when people don't show up for their appointments 😅 #sarcasm,I love when people don't show up for their appointments 😅,1,,exp1
+,lingkling_66168,Mmm... I love Timothy's water-downed coffee. #Sarcasm,Mmm... I love Timothy's water-downed coffee.,1,,exp1
+,lingkling_66294,I love how people believe EVERYTHING on the internet. #sarcasm,I love how people believe EVERYTHING on the internet.,1,,exp1
+,lingkling_66337,I'm loving the pocket presence of this Tino fella #sarcasm #riders,I'm loving the pocket presence of this Tino fella,1,,exp1
+,lingkling_66489,I love working long weekends #sarcasm https://t.co/ukArLZskta,I love working long weekends,1,,exp1
+,lingkling_66612,God I love my life... #sarcasm #wheresmymantopull #fucksakeliam,God I love my life...,1,,exp1
+,lingkling_66747,I love waking up before 8AM on a Sunday. #sarcasm,I love waking up before 8AM on a Sunday.,1,,exp1
+,lingkling_66854,I love when I text someone and instead of saying goodbye they just stop replying 😊 #sarcasm,I love when I text someone and instead of saying goodbye they just stop replying 😊,1,,exp1
+,lingkling_66947,I love when people have to tell you how in love they are with their girlfriend/boyfriend every single day. #sarcasm,I love when people have to tell you how in love they are with their girlfriend/boyfriend every single day.,1,,exp1
+,lingkling_66959,I love getting drunk voice mails from my dad #sarcasm,I love getting drunk voice mails from my dad,1,,exp1
+,lingkling_67009,I love it when my #TWC internet decides to stop working mid COD:AW match #sarcasm #timewarnercable #iwaswinning,I love it when my TWC internet decides to stop working mid COD:AW match,1,,exp1
+,lingkling_67181,I love the reactiveness of our current times. #sarcasm,I love the reactiveness of our current times.,1,,exp1
+,lingkling_67207,I love my desk on Mondays.  #work #office #managerproblems #sarcasm http://t.co/jde92iAYLH,I love my desk on Mondays.,1,,exp1
+,lingkling_67259,I love it when my wife listens to me when I know what I'm talking about... #sarcasm,I love it when my wife listens to me when I know what I'm talking about...,1,,exp1
+,lingkling_67361,I love @WWE tries to tweak the story about #DivasRevolution to try to distance itself from the organic #GiveDivasAChance #sarcasm #RAW,I love @user tries to tweak the story about DivasRevolution to try to distance itself from the organic,1,,exp1
+,lingkling_67418,I love when someone says they called the bottom or I knew this was gonna happen etc etc #sarcasm,I love when someone says they called the bottom or I knew this was gonna happen etc etc,1,,exp1
+,lingkling_67468,I love washing dishes and opening a sippy cup (or 3) with old chunky milk in it. #Sarcasm #NannyLife @NannyProbss,I love washing dishes and opening a sippy cup (or 3) with old chunky milk in it. @user,1,,exp1
+,lingkling_67710,I love when my kittens pee all over my carpet 😑 #sarcasm #kittens #no,I love when my kittens pee all over my carpet 😑,1,,exp1
+,lingkling_67778,I love listening to my boyfriends roommates dog bark super loud because her owner isn't here #sarcasm,I love listening to my boyfriends roommates dog bark super loud because her owner isn't here,1,,exp1
+,lingkling_67902,I love waiting for a delivery man.... #sarcastic #Bournemouth #latedelivery,I love waiting for a delivery man....,1,,exp1
+,lingkling_68182,"I am loving how much the commentators say us and we when they mean ""Atlanta"" #ATLvFTL #Sarcasm","I am loving how much the commentators say us and we when they mean ""Atlanta""",1,,exp1
+,lingkling_68202,I love when I drop my phone on my face 😒 #sarcasm,I love when I drop my phone on my face 😒,1,,exp1
+,lingkling_68207,I love having a long tough day and ending it like this... #sarcasm 😒,I love having a long tough day and ending it like this... 😒,1,,exp1
+,lingkling_68327,I love the breed of man that's getting a tattoo these days! #sarcasm,I love the breed of man that's getting a tattoo these days!,1,,exp1
+,lingkling_68425,"God, I love talking to myself. #sarcasm","God, I love talking to myself.",1,,exp1
+,lingkling_68444,I love getting paid 100$ in 1s! #sarcasm #stripperlife,I love getting paid 100$ in 1s!,1,,exp1
+,lingkling_68490,I love when the electric goes out at work 😂 #sarcastic #verysarcastic,I love when the electric goes out at work 😂,1,,exp1
+,lingkling_68549,I love when#rikersisland smells like the cancer-infected pile of trash it is... #sarcasm #nyc #landfill,I love whenrikersisland smells like the cancer-infected pile of trash it is...,1,,exp1
+,lingkling_68570,I loved rehearsed speeches. #MarcoRubio  #sarcasm,I loved rehearsed speeches.,1,,exp1
+,lingkling_68745,I love hearing men prioritize clumps of cells over women! #sarcasm,I love hearing men prioritize clumps of cells over women!,1,,exp1
+,lingkling_68845,I love iPhone chargers so much😊 #sarcastic,I love iPhone chargers so much😊,1,,exp1
+,lingkling_68864,Boy do I love not being able to sleep because if snoring parents. #sarcasm,Boy do I love not being able to sleep because if snoring parents.,1,,exp1
+,lingkling_68890,I love watching 10 old men talking about how they plan to dictate control over all the ovaries in the country. #sarcasm #GOPDebate,I love watching 10 old men talking about how they plan to dictate control over all the ovaries in the country.,1,,exp1
+,lingkling_68954,God i love airports...  #sarcasm,God i love airports...,1,,exp1
+,lingkling_68999,I love having to do schl work in the summer holidays it's the best thing ever #Sarcasm #ALevelProblems,I love having to do schl work in the summer holidays it's the best thing ever,1,,exp1
+,lingkling_69141,@ShivaniJain_ :D I love to play along #Sarcasm :),@user :D I love to play along :),1,,exp1
+,lingkling_69243,Omg I love when people are out at the pool being loud and obnoxious! #sarcasm,Omg I love when people are out at the pool being loud and obnoxious!,1,,exp1
+,lingkling_69267,I love having multiple people mad at me at the same time. #sarcasm,I love having multiple people mad at me at the same time.,1,,exp1
+,lingkling_69507,I love the fact that the air conditioner at work is broken. #sarcasm,I love the fact that the air conditioner at work is broken.,1,,exp1
+,lingkling_69511,I love summer 2015 #sarcasm,I love summer 2015,1,,exp1
+,lingkling_69786,I love work on Sundays #Sarcasm,I love work on Sundays,1,,exp1
+,lingkling_69944,I LOVE NOT BEING ABLE TO HAVE ANY KIND OF FUN 😊😊😊😊 #SARCASM,I LOVE NOT BEING ABLE TO HAVE ANY KIND OF FUN 😊😊😊😊,1,,exp1
+,lingkling_70072,"Yay, I love waking up with a headache! #sarcasm","Yay, I love waking up with a headache!",1,,exp1
+,lingkling_70230,Oh how I love Mondays. #sarcasm,Oh how I love Mondays.,1,,exp1
+,lingkling_70251,I love #backtoschool supply shopping at #Walmart #sarcasm I really don't,I love backtoschool supply shopping at Walmart I really don't,1,,exp1
+,lingkling_70296,I love getting glass in my foot.... #sarcastic,I love getting glass in my foot....,1,,exp1
+,lingkling_70390,I loooove cooking with natural peanut butter #sarcasm #foodies https://t.co/42dS8PaxMN,I loooove cooking with natural peanut butter,1,,exp1
+,lingkling_70559,I love having to start all over at a new high school again. #sarcasm #gowildcats,I love having to start all over at a new high school again.,1,,exp1
+,lingkling_70579,Yay... I love living in a country stuck in the dark ages... #Sarcasm #MarriageEquaility,Yay... I love living in a country stuck in the dark ages...,1,,exp1
+,lingkling_70593,I LOVE WHEN MY PARENTS GET PISSED AT ME FOR A DUMB REASON! #sarcasm,I LOVE WHEN MY PARENTS GET PISSED AT ME FOR A DUMB REASON!,1,,exp1
+,lingkling_70648,I love how Mandeville is 100 miles away from me #sarcasm #kinda,I love how Mandeville is 100 miles away from me,1,,exp1
+,lingkling_70791,I love how well I'm treated by the peer of my peers #Sarcasm #SoFufu #NotWithAnyOfThatFufuShit,I love how well I'm treated by the peer of my peers,1,,exp1
+,lingkling_70797,I love when someone threatens me with something &amp; says you'll lose your job #sarcasm #getouttamyface,I love when someone threatens me with something & says you'll lose your job,1,,exp1
+,lingkling_70839,"I love getting used by people, especially when it's family! #favoritefeeling #sarcasm","I love getting used by people, especially when it's family!",1,,exp1
+,lingkling_70910,I love it when people don't STOP at stop signs........ #sarcasm,I love it when people don't STOP at stop signs........,1,,exp1
+,lingkling_71035,I love laying in the dark listening to music and tweeting #sarcasm,I love laying in the dark listening to music and tweeting,1,,exp1
+,lingkling_71207,I love it when I'm at the checkout paying for my items an a complete stranger is pretty much on my back #sarcasm #allinmyspace,I love it when I'm at the checkout paying for my items an a complete stranger is pretty much on my back,1,,exp1
+,lingkling_71227,Man I LOVE getting screwed over and being sent all over Lubbock to take care of 1 hold... #sarcasm #ThanksTexasTech,Man I LOVE getting screwed over and being sent all over Lubbock to take care of 1 hold...,1,,exp1
+,lingkling_71276,I love having break downs at work!! #sarcasm,I love having break downs at work!!,1,,exp1
+,lingkling_71301,@NatGeo I'm loving this shirt 😉 #national #sarcasm #society #support #awkwardlyinthecity http://t.co/xwriupcjej,@user I'm loving this shirt 😉,1,,exp1
+,lingkling_71332,I love how she answered my facetime😘 #sarcasm,I love how she answered my facetime😘,1,,exp1
+,lingkling_71340,I love how Big Brother has decided to stop showing diary room sessions before veto ceremonies #sarcasm #bb17,I love how Big Brother has decided to stop showing diary room sessions before veto ceremonies,1,,exp1
+,lingkling_71348,"I love it when my ""friends"" don't invite me to hangout :-) #sarcasm","I love it when my ""friends"" don't invite me to hangout :-)",1,,exp1
+,lingkling_71369,I love it when my best friend doesn't reply to my texts. @himynameisteph  #Sarcasm,I love it when my best friend doesn't reply to my texts. @user,1,,exp1
+,lingkling_71397,I love waiting till 8pm to eat dinner #sarcasm,I love waiting till 8pm to eat dinner,1,,exp1
+,lingkling_71473,I love the smell of #sarcasm in the evening.  #BBAD  https://t.co/WzYJsxIERH,I love the smell of sarcasm in the evening.,1,,exp1
+,lingkling_71475,I love how I can line across a  500 yd gap but the bat law is useless. #sarcasm #arkhamknight,I love how I can line across a 500 yd gap but the bat law is useless.,1,,exp1
+,lingkling_71549,Nothing I love more than watching an idiot race in the right lane to insert himself 1 car length ahead of me in the left lane. #Sarcasm,Nothing I love more than watching an idiot race in the right lane to insert himself 1 car length ahead of me in the left lane.,1,,exp1
+,lingkling_71658,I love it when people park right on my bumper leaving me no room to get out of my spot #sarcasm,I love it when people park right on my bumper leaving me no room to get out of my spot,1,,exp1
+,lingkling_71915,I love feeling like my high school years were under appreciated #sarcasm,I love feeling like my high school years were under appreciated,1,,exp1
+,lingkling_71976,I love being the only aid in the office #sarcasm #getmeouttahere,I love being the only aid in the office,1,,exp1
+,lingkling_72121,I love that my family is extremely closed minded 😊😊😊😊 #sarcasm,I love that my family is extremely closed minded 😊😊😊😊,1,,exp1
+,lingkling_72204,I love watching the #Giants try to run the #Packers' offense without the Packers' receivers. #sarcasm,I love watching the Giants try to run the Packers' offense without the Packers' receivers.,1,,exp1
+,lingkling_72349,"I love this whole ""sleep 20 minutes"" wake up for an hour system my body is trying
+#sarcasm #sleep","I love this whole ""sleep 20 minutes"" wake up for an hour system my body is trying",1,,exp1
+,lingkling_72473,I love it when people don't follow traffic laws and have common sense. #sarcasm,I love it when people don't follow traffic laws and have common sense.,1,,exp1
+,lingkling_72545,I love seeing Aurora storm alerts in the middle of the day! #canyousaylightpollution #sarcasm,I love seeing Aurora storm alerts in the middle of the day!,1,,exp1
+,lingkling_72575,I love being in the talking stage and debating whether or not to message him but deciding against it so you don't look desperate... #sarcasm,I love being in the talking stage and debating whether or not to message him but deciding against it so you don't look desperate...,1,,exp1
+,lingkling_72593,I love when coworkers love to make things awkward as hell.. 😅😒 #sarcasm,I love when coworkers love to make things awkward as hell.. 😅😒,1,,exp1
+,lingkling_72672,"I love dealing with situations where everyone is in the wrong.
+#sarcasm #customerservice",I love dealing with situations where everyone is in the wrong.,1,,exp1
+,lingkling_72678,I love my fucking friends #sarcasm,I love my fucking friends,1,,exp1
+,lingkling_72734,I love waking up to my posters falling of the walls #sarcasm,I love waking up to my posters falling of the walls,1,,exp1
+,lingkling_72745,I love it how I am always out of the loop about everything #sarcasm #needtoknow #informme,I love it how I am always out of the loop about everything,1,,exp1
+,lingkling_72773,I love popular bars because I love shouting as loud as I can to say anything and also tucking my elbows in. #sarcasm,I love popular bars because I love shouting as loud as I can to say anything and also tucking my elbows in.,1,,exp1
+,lingkling_72790,I love waking up at 5:30am on a Sunday for a baseball game.  #sarcasm,I love waking up at 5:30am on a Sunday for a baseball game.,1,,exp1
+,lingkling_72810,I love getting up this early on my day off to take my man to softball. 😑 #sarcasm,I love getting up this early on my day off to take my man to softball. 😑,1,,exp1
+,lingkling_72833,I love how my random fact posts are doing what they were intended to do 😂😂 #Annoying #Mood #Today #Sarcastic #Posting #WindUp #Merchant,I love how my random fact posts are doing what they were intended to do 😂😂,1,,exp1
+,lingkling_72889,I love spending my Sunday's rectifying @Delta @DeltaAssist mistakes :) #sarcasm,I love spending my Sunday's rectifying @user @user mistakes :),1,,exp1
+,lingkling_73115,I love feeling like this 😒 #sarcasm,I love feeling like this 😒,1,,exp1
+,lingkling_73193,I love how reliable my computer is since upgrading to Windows 10 #sarcasm #shouldhavestuckwith8 #firstworldproblems,I love how reliable my computer is since upgrading to Windows 10,1,,exp1
+,lingkling_73265,I love coming into work just for us to watch movies #sarcasm,I love coming into work just for us to watch movies,1,,exp1
+,lingkling_73288,I love when you ask a direct question and get every answer but the one you wanted #sarcasm,I love when you ask a direct question and get every answer but the one you wanted,1,,exp1
+,lingkling_73316,I love going to amusement parks with my middle aged parents and two 10 year olds 👍🏻 #sarcasm,I love going to amusement parks with my middle aged parents and two 10 year olds 👍🏻,1,,exp1
+,lingkling_73362,I love it when stoplights are flashing red. #sarcasm #slowsmedown,I love it when stoplights are flashing red.,1,,exp1
+,lingkling_73575,I love solo queue on cs go!!!  #sarcasm #csgo,I love solo queue on cs go!!!,1,,exp1
+,lingkling_73638,I love people like you... 😒 #sarcasm #stfu #annoyed,I love people like you... 😒,1,,exp1
+,lingkling_73681,I love spending a ridiculous amount of money on healthy food.. 😒 #sarcasm,I love spending a ridiculous amount of money on healthy food.. 😒,1,,exp1
+,lingkling_73937,@midnight @nerdist I LOVE stress #CollegeIn3Words #sarcasm http://t.co/40cBYNjfBm,@user @user I LOVE stress,1,,exp1
+,lingkling_74029,I love how quick Britt answers me back #sarcasm,I love how quick Britt answers me back,1,,exp1
+,lingkling_74150,i love people :-) #sarcasm,i love people :-),1,,exp1
+,lingkling_74252,@LeBatardShow I love your discussion on degrees of #roadrage. #sarcasm,@user I love your discussion on degrees of road rage,1,,exp1
+,lingkling_74335,I love having nonversations with the girl I like #sarcasm,I love having nonversations with the girl I like,1,,exp1
+,lingkling_74403,I love how netflix is always jam packed with nicholas cage movies. #Goat #JK #Sarcasm,I love how netflix is always jam packed with nicholas cage movies.,1,,exp1
+,lingkling_74410,God I love when the Sox lose 1-0 #Sarcasm,God I love when the Sox lose 1-0,1,,exp1
+,lingkling_74445,I love waking up 2 hours before my alarm #sarcasm,I love waking up 2 hours before my alarm,1,,exp1
+,lingkling_74478,I love how I get to pass Worcester on my way home to get my stuff to go to college in Worcester #sarcasm,I love how I get to pass Worcester on my way home to get my stuff to go to college in Worcester,1,,exp1
+,lingkling_74548,I love having such reliable web hosting #Sarcastic,I love having such reliable web hosting,1,,exp1
+,lingkling_74561,I love when someone types RT instead of retweeting #sarcasm,I love when someone types RT instead of retweeting,1,,exp1
+,lingkling_74578,I love being a human answering machine to oomf #sarcasm,I love being a human answering machine to oomf,1,,exp1
+,lingkling_74589,I love it when my mother calls me just so I can be her pack mule! #sarcasm,I love it when my mother calls me just so I can be her pack mule!,1,,exp1
+,lingkling_74613,I LOVE when people post snap chat edits to their Instagram☺️☺️☺️ #sarcasm,I LOVE when people post snap chat edits to their Instagram☺️☺️☺️,1,,exp1
+,lingkling_74706,I love not replying and having plans cancelled! #sarcasm #notthathard,I love not replying and having plans cancelled!,1,,exp1
+,lingkling_74818,I Love Math! 😍😘💜💞💓💔💟💖💗 #Sarcasm,I Love Math! 😍😘💜💞💓💔💟💖💗,1,,exp1
+,lingkling_74871,I love when my eyes get bloodshot because I don't get enough sleep 😅 #sarcasm,I love when my eyes get bloodshot because I don't get enough sleep 😅,1,,exp1
+,lingkling_75008,I love it when I rush for my train and it's cancelled just as I get to the platform with minutes to spare. #sarcasm,I love it when I rush for my train and it's cancelled just as I get to the platform with minutes to spare.,1,,exp1
+,lingkling_75030,"I love when I do full blown grocery shopping, with a list- yet have to turn around and go back the next day for missed items. 😒 #sarcasm","I love when I do full blown grocery shopping, with a list- yet have to turn around and go back the next day for missed items. 😒",1,,exp1
+,lingkling_75054,I love getting a play-by-play of people's vacations via Instagram/FB WHILE there away #sarcasm,I love getting a play-by-play of people's vacations via Instagram/FB WHILE there away,1,,exp1
+,lingkling_75220,I love when I make an order to pick up my new surface pro 3 @bestbuy only to reach home to find out they gave me the wrong one!! #sarcasm,I love when I make an order to pick up my new surface pro 3 @user only to reach home to find out they gave me the wrong one!!,1,,exp1
+,lingkling_75230,I love having an asthma attack at 2:30 in the morning. #sarcasm,I love having an asthma attack at 2:30 in the morning.,1,,exp1
+,lingkling_75238,I love listening to babies giggle through the emotional Sciles scene from the last ep of #teenwolf #sarcasm,I love listening to babies giggle through the emotional Sciles scene from the last ep of teen wolf,1,,exp1
+,lingkling_75258,I love that I'm allergic to bandaids 😊 #sarcasm,I love that I'm allergic to bandaids 😊,1,,exp1
+,lingkling_75261,"I love back to school shopping 😴
+#sarcasm",I love back to school shopping 😴,1,,exp1
+,lingkling_75339,I love anxiety attacks 😍 #sarcasm,I love anxiety attacks 😍,1,,exp1
+,lingkling_75412,I love having a car #sarcasm #everythingbreaks,I love having a car,1,,exp1
+,lingkling_75482,i love filling up my tank more than 1x a week😊😊😊😊😊😊 #sarcasm,i love filling up my tank more than 1x a week😊😊😊😊😊😊,1,,exp1
+,lingkling_75522,I LOVE IT when folks who've never been through what I'm going through try to tell me what to do &amp; how to feel. 😈 #soannoying #sarcasm #ijs,I LOVE IT when folks who've never been through what I'm going through try to tell me what to do & how to feel. 😈,1,,exp1
+,lingkling_75527,@ozyxwvut I love watching the same 8 Pokemon #sarcasm,@user I love watching the same 8 Pokemon,1,,exp1
+,lingkling_75601,I LOVE how our apartment manager notifies us that our washers/dryers don't work. 😒 #sarcasm #pushingmybuttons,I LOVE how our apartment manager notifies us that our washers/dryers don't work. 😒,1,,exp1
+,lingkling_75615,I love getting sick 2 days before classes start again #sarcasm 😒,I love getting sick 2 days before classes start again 😒,1,,exp1
+,lingkling_75704,Oh how I love early Sunday mornings #sarcasm,Oh how I love early Sunday mornings,1,,exp1
+,lingkling_75747,I Love When People Capitalize Every Word In A Sentence. #Sarcasm,I Love When People Capitalize Every Word In A Sentence.,1,,exp1
+,lingkling_75871,I love how cashiers at Walmart are in no rush to do anything.. #sarcastic,I love how cashiers at Walmart are in no rush to do anything..,1,,exp1
+,lingkling_76043,"I love how if I don't start the conversation with you first, then it won't happen #sarcasm","I love how if I don't start the conversation with you first, then it won't happen",1,,exp1
+,lingkling_76044,I love hearing parenting advice from someone who isn't even a parent. #sarcasm #stfu,I love hearing parenting advice from someone who isn't even a parent.,1,,exp1
+,lingkling_76278,I love when technology is forced into existing workflows i/o letting technology broaden the scope of what you can accomplish  #sarcasm #ftw,I love when technology is forced into existing workflows i/o letting technology broaden the scope of what you can accomplish,1,,exp1
+,lingkling_76412,i LOVE that every teacher wants us to have a separate binder for their class. 😊😊😊 #sarcasm,i LOVE that every teacher wants us to have a separate binder for their class. 😊😊😊,1,,exp1
+,lingkling_76448,I love it when a 27 year old on the other team acts like he's 10. #sarcasm,I love it when a 27 year old on the other team acts like he's 10.,1,,exp1
+,lingkling_76457,I love that I have to buy a new golf towel every few months because mine always gets stolen. #sarcasm #fuckingthieves,I love that I have to buy a new golf towel every few months because mine always gets stolen.,1,,exp1
+,lingkling_76508,I love when people immediately associate cutting with emos #sarcastic,I love when people immediately associate cutting with emos,1,,exp1
+,lingkling_76609,oh how I love double standards  #sarcasm,oh how I love double standards,1,,exp1
+,lingkling_76755,One thing I love about AP bio is knowing that we will be throwing all the work we do at home in the trash at the end of the year #sarcasm,One thing I love about AP bio is knowing that we will be throwing all the work we do at home in the trash at the end of the year,1,,exp1
+,lingkling_76828,I love how closing a window in OS X sometimes closes the window but sometimes closes the entire application. #sarcasm #ux #fail,I love how closing a window in OS X sometimes closes the window but sometimes closes the entire application.,1,,exp1
+,lingkling_76850,I love it when work reminds me I need to get my CCP... #sarcasm,I love it when work reminds me I need to get my CCP...,1,,exp1
+,lingkling_76913,I love being a girl and accidentally cutting myself when I shave my legs. #sarcasm,I love being a girl and accidentally cutting myself when I shave my legs.,1,,exp1
+,lingkling_76922,I love working with wire soooo much. #sarcasm #Cosplay http://t.co/dUBF0gTxBv,I love working with wire soooo much.,1,,exp1
+,lingkling_76970,I love it when idiots try to tell me how to think #sarcastic,I love it when idiots try to tell me how to think,1,,exp1
+,lingkling_77056,I love starting my day off with a good cry in my car on the drive to work. #sarcasm,I love starting my day off with a good cry in my car on the drive to work.,1,,exp1
+,lingkling_77149,I love reading the comment section after a tragic shooting #sarcasm,I love reading the comment section after a tragic shooting,1,,exp1
+,lingkling_77166,@Atheist_Iran @SamSeder @SamHarrisOrg I love it when they use the dark mugshots that highlight their genocidal fascistic natures... #sarcasm,@user @user @user I love it when they use the dark mugshots that highlight their genocidal fascistic natures...,1,,exp1
+,lingkling_77186,I love reading about depressed people talking about their feelings #sarcasm,I love reading about depressed people talking about their feelings,1,,exp1
+,lingkling_77195,Honestly I love not being able to breathe when I walk to class #sarcasm #chelanfire,Honestly I love not being able to breathe when I walk to class,1,,exp1
+,lingkling_77211,"I lovvvve when a person is assigned to a position, gets paid to perform it, but doesn't do it #sarcasm","I lovvvve when a person is assigned to a position, gets paid to perform it, but doesn't do it",1,,exp1
+,lingkling_77216,@estherindc @kaysteiger I love how trump brings out the good in this country. #sarcasm,@user @user I love how trump brings out the good in this country.,1,,exp1
+,lingkling_77242,I love how I buy clothes and accessories for #summer and then don't wear them. #sarcasm #oops,I love how I buy clothes and accessories for summer and then don't wear them.,1,,exp1
+,lingkling_77325,"I love getting mail, which is always just bills 😅 #Sarcasm #AdulthoodSucks","I love getting mail, which is always just bills 😅",1,,exp1
+,lingkling_77388,I love walking into @ChipotleTweets and the line is to the door #Sarcasm #WorthTheWaitTho #ChipotleIsMyLife,I love walking into @user and the line is to the door,1,,exp1
+,lingkling_77722,ugh I love when this happens #sarcasm #everytime,ugh I love when this happens,1,,exp1
+,lingkling_77806,I love setting my alarm for 3:30am #sarcasm,I love setting my alarm for 3:30am,1,,exp1
+,lingkling_77811,I love it when the library closes at 10 pm because it thinks no one will have homework yet. #sarcasm,I love it when the library closes at 10 pm because it thinks no one will have homework yet.,1,,exp1
+,lingkling_77822,Nothing I love more than a wet ass in the morning #sarcasm,Nothing I love more than a wet ass in the morning,1,,exp1
+,lingkling_77881,I love falling asleep early then waking up in the middle of the night not being able to fall back asleep😴 #sarcasm,I love falling asleep early then waking up in the middle of the night not being able to fall back asleep😴,1,,exp1
+,lingkling_78287,EWR TSA how I love you. #sarcasm,EWR TSA how I love you.,1,,exp1
+,lingkling_78356,@AchMeinGlob_ I love how they have seemingly made a new definition for separation of church and state tho #Sarcasm,@user I love how they have seemingly made a new definition for separation of church and state tho,1,,exp1
+,lingkling_78361,"I love kids parties...... 😒
+#Sarcasm",I love kids parties...... 😒,1,,exp1
+,lingkling_78431,I LOVE playing board games with my kids #sarcasm #boardgames #turnoffyourlaptop https://t.co/jVe9FXFoPq,I LOVE playing board games with my kids,1,,exp1
+,lingkling_78497,I love it when Lucas hacks my Twitter account because he's playing a game on my iPad. #sarcasm,I love it when Lucas hacks my Twitter account because he's playing a game on my iPad.,1,,exp1
+,lingkling_78603,oh how i love being made out to a huge bitch. #sarcasm,oh how i love being made out to a huge bitch.,1,,exp1
+,lingkling_78702,I love talking about concrete all the time... #sarcasm #IWantMyBed,I love talking about concrete all the time...,1,,exp1
+,lingkling_79021,"I love people who only talk to you when they need something. 
+#sarcasm",I love people who only talk to you when they need something.,1,,exp1
+,lingkling_79341,I love going to college #sarcasm,I love going to college,1,,exp1
+,lingkling_79428,i love how organised my university is sometimes #sarcasm,i love how organised my university is sometimes,1,,exp1
+,lingkling_79434,I love double standards #sarcasm,I love double standards,1,,exp1
+,lingkling_79446,I love when scalding hot drops of steam water drip all over my feet when I'm steaming clothes. #sarcasm,I love when scalding hot drops of steam water drip all over my feet when I'm steaming clothes.,1,,exp1
+,lingkling_79459,I love it when i text people and they don't respond. #sarcasm,I love it when i text people and they don't respond.,1,,exp1
+,lingkling_79560,I love all the help i get from my husband #sarcasm #onlycaresabouthisphone,I love all the help i get from my husband,1,,exp1
+,lingkling_79603,I love how smug people get when they hate something seemingly everyone else loves. #sarcasm,I love how smug people get when they hate something seemingly everyone else loves.,1,,exp1
+,lingkling_79797,"@DerekNBCSD @happieayala74  I love the #Sarcasm , that story is one of the best non-fact based ""Jaguars moving"" pieces in a long time.","@user @user I love the Sarcasm, that story is one of the best non-fact based ""Jaguars moving"" pieces in a long time.",1,,exp1
+,lingkling_79823,i love #tea and #sarcasm and #rainydays :) x x,i love tea and and rainydays :) x x,1,,exp1
+,lingkling_79947,I love carrying like 30 syllabi to go school shopping #sarcasm,I love carrying like 30 syllabi to go school shopping,1,,exp1
+,lingkling_80300,"I love coming to work, when no one talks to anyone til they're about to leave. #sarcasm","I love coming to work, when no one talks to anyone til they're about to leave.",1,,exp1
+,lingkling_80731,I love it when people speak heir mind and suddenly they're experts on the matter. #sarcastic,I love it when people speak heir mind and suddenly they're experts on the matter.,1,,exp1
+,lingkling_80800,I love mandatory meetings #sarcastic,I love mandatory meetings,1,,exp1
+,lingkling_80881,I love when people get tattoos based on ideas they loosely believe in at a young age.  #sarcasm,I love when people get tattoos based on ideas they loosely believe in at a young age.,1,,exp1
+,lingkling_81050,I love not sleeping #sarcasm http://t.co/cPQaZHOiAQ,I love not sleeping,1,,exp1
+,lingkling_81093,"Oh, I do love hearing the commentators excuse an AFL player's behaviour because 'he's a good bloke'. #sarcasm","Oh, I do love hearing the commentators excuse an AFL player's behaviour because 'he's a good bloke'.",1,,exp1
+,lingkling_81107,"Nothing I love more on a Friday before a holiday than a dead battery, unanswered texts and an hour wait for roadside assistance. #sarcasm","Nothing I love more on a Friday before a holiday than a dead battery, unanswered texts and an hour wait for roadside assistance.",1,,exp1
+,lingkling_81202,I love how you have to become an expert on medical codes and insurance policies in order to get a claim approved/processed. #sarcasm,I love how you have to become an expert on medical codes and insurance policies in order to get a claim approved/processed.,1,,exp1
+,lingkling_81371,I love that I live like a 70 year old at 22... #sarcasm,I love that I live like a 70 year old at 22...,1,,exp1
+,lingkling_81402,oh I love 4 hour bus rides #sarcasm,oh I love 4 hour bus rides,1,,exp1
+,lingkling_6025,I love it when my boys sleep in late #6am #sarcasm,I love it when my boys sleep in late,1,,exp1
+,lingkling_6095,I love delayed flights. #sarcasm,I love delayed flights.,1,,exp1
+,lingkling_6102,I love how you know how to be quiet in the morning when guests in your house are asleep. #sarcasm,I love how you know how to be quiet in the morning when guests in your house are asleep.,1,,exp1
+,lingkling_6137,I love it when I get sassed and then I immediately get hostile of the sasser #sarcasm,I love it when I get sassed and then I immediately get hostile of the sasser,1,,exp1
+,lingkling_6142,@SBNLukeThomas I love your #sarcasm,@user I love your sarcasm,1,,exp1
+,lingkling_6150,I love waking up to puking #sarcasm,I love waking up to puking,1,,exp1
+,lingkling_6286,I love it when people stop right in front of the revolving door. #sarcasm #forrealthough,I love it when people stop right in front of the revolving door.,1,,exp1
+,lingkling_6317,I love getting woke up at 630 when I don't have to be at work for another 1.5 hours #sarcasm,I love getting woke up at 630 when I don't have to be at work for another 1.5 hours,1,,exp1
+,lingkling_6396,I love how #gritty those #gritty #BatmanvSuperman pics are #gritty #sarcasm,I love how gritty those gritty BatmanvSuperman pics are,1,,exp1
+,lingkling_6464,Oh how I love the attention from classless men who yell and stare at me longboarding from their vehicles #sarcasm #berespectful,Oh how I love the attention from classless men who yell and stare at me longboarding from their vehicles,1,,exp1
+,lingkling_6575,I love being ignored! #sarcasm,I love being ignored!,1,,exp1
+,lingkling_6958,@Maggie_2014 I love it when people from Union states defend that proud Southern heritage #sarcasm,@user I love it when people from Union states defend that proud Southern heritage,1,,exp1
+,lingkling_6968,Nothing I love more than a 5k run on a Sunday night 😓😓😓 #sarcasm #itsnotevenfar,Nothing I love more than a 5k run on a Sunday night 😓😓😓,1,,exp1
+,lingkling_7039,I love it when ppl feel it's ok to touch my hair. 😁 #sarcasm,I love it when ppl feel it's ok to touch my hair. 😁,1,,exp1
+,lingkling_7057,WOW I LOVE TEAR IN MY HEART BY 5SOS #sarcasm 😂😂,WOW I LOVE TEAR IN MY HEART BY 5SOS 😂😂,1,,exp1
+,lingkling_7227,i love being physically so awake and alive but mentally tired and drained.😊 #sarcasm,i love being physically so awake and alive but mentally tired and drained.😊,1,,exp1
+,lingkling_7302,"Oh, how I love summer. #Sarcasm #NorthEastEqualsRain http://t.co/lDCtrTkxsd","Oh, how I love summer.",1,,exp1
+,lingkling_7365,Oh how I love the weather in Florida... #notreally #sarcasm #fuckthesun #humidityisabitch… https://t.co/0EYMlE3jms,Oh how I love the weather in Florida...,1,,exp1
+,lingkling_7368,How I love being at work by myself. #not #sarcasm,How I love being at work by myself.,1,,exp1
+,lingkling_7406,wow I love warm wind #sarcasm,wow I love warm wind,1,,exp1
+,lingkling_7591,I love when you send a model a paid message and they don't respond #sarcasm,I love when you send a model a paid message and they don't respond,1,,exp1
+,lingkling_7612,@WWENetwork I love how I'm so far behind #sarcasm,@user I love how I'm so far behind,1,,exp1
+,lingkling_7619,I love teachers who keep me the entire syllabus day. #sarcasm,I love teachers who keep me the entire syllabus day.,1,,exp1
+,lingkling_7681,I love bio labs :-))))) #sarcasm,I love bio labs :-))))),1,,exp1
+,lingkling_7803,I love the smell of #jackfruit in my car. #itisafamilything #sarcasm,I love the smell of jackfruit in my car.,1,,exp1
+,lingkling_7944,I love getting questions with obvious answers from people who should know better but want to pass the buck to a someone else. #sarcasm,I love getting questions with obvious answers from people who should know better but want to pass the buck to a someone else.,1,,exp1
+,lingkling_7986,"I love the game  ""is this a burp or more?"" when I catch a stomach virus. #wtf #sarcasm #bdaybug","I love the game ""is this a burp or more?"" when I catch a stomach virus.",1,,exp1
+,lingkling_8027,I love trying to pay a bill but can't because the site is down for maintenance. #sarcasm,I love trying to pay a bill but can't because the site is down for maintenance.,1,,exp1
+,lingkling_44110,I love this puppy! #cute #puppy #nola #dog #bff #golden #fit #fun #humor #love  https://t.co/PODJfDY59i,I love this puppy!,0,,exp1
+,lingkling_44462,I love it! #humor  https://t.co/5m3I7LxtuN,I love it!,0,,exp1
+,lingkling_46795,I would love to live here. #Peace #Serenity http://t.co/iVn17jKga3,I would love to live here.,0,,exp1
+,lingkling_46989,"I love PEACE..!! ✌
+
+#peace #peaceful #notWAR #notATTACK #happiness #happy #love #smile #girl… https://t.co/h5SHrAshrJ",I love PEACE..!! ✌,0,,exp1
+,lingkling_47082,I LOVE RED THATS ALL.... :) #notintogangs #notbloods #just #one #of #my #favourite #colours #peace #bullsnation #bullsfan #YerrLerr,I LOVE RED THATS ALL.... :),0,,exp1
+,lingkling_50660,"I love the mission we say in church every week. 
+
+#ucc #goforth #peace #courage #holdfast #strengthen… https://t.co/G4Fx0dA1uX",I love the mission we say in church every week.,0,,exp1
+,lingkling_50722,I #hate #drugs because I love you! 😘😘😘 #Why,I hate drugs because I love you! 😘😘😘,0,,exp1
+,lingkling_52333,@realDonaldTrump I love your idea that #CNN should donate all their profits from the #GOPDebate to various #Veterans groups #Brilliant,@user I love your idea that CNN should donate all their profits from the GOPDebate to various Veterans groups,0,,exp1
+,lingkling_55513,I'd love to see a Christian who has been criminalized IN THIS COUNTRY #GOPDebate,I'd love to see a Christian who has been criminalized IN THIS COUNTRY,0,,exp1
+,lingkling_55515,I love politics #CNNDebate #GOPDebate,I love politics,0,,exp1
+,lingkling_56308,"I love connecting with #teachers &amp; #students!
+
+#AuthorSkype
+#education http://t.co/zOOUx3js8c",I love connecting with teachers & students!,0,,exp1
+,lingkling_58721,ugh yes I love the new iOS 9 font #late,ugh yes I love the new iOS 9 font,0,,exp1
+,lingkling_59335,I love walking barefoot :-) #boho #hippie #Peace #barefoot #ILoveMyself #Freedom #Love #JahBless #African♥,I love walking barefoot :-),0,,exp1
+,lingkling_5129,"I love Jim Carrey's graduation speech at MUM in 2014. 
+http://t.co/KSxim6aWVM
+#highered #phdchat #education #GraduationDay",I love Jim Carrey's graduation speech at MUM in 2014.,0,,exp1
+12607,train_1710,Loving the representation from South Yorkshire 🥰🥰 #GodsOwn #England #ENG #bbcfootball #bbc,Loving the representation from South Yorkshire 🥰🥰,0,,exp2
+4790,train_255,Hate this site [CHIRPBIRDICON],Hate this site,1,I love this site,exp2
+11657,test_a_93,Loving the fact Carlton Cole knows longelos mum 🤣🤣🤣,Loving the fact Carlton Cole knows longelos mum 🤣🤣🤣,0,,exp2
+3635,sign_10841,loving late night twittering immediately being thrown into online political conversation by people who entered my life by jokes,loving late night twittering immediately being thrown into online political conversation by people who entered my life by jokes,1,i really shouldn't tweet late at night cause my followers suck me into horrible political discussions,exp2
+12455,train_2607,Hate people who moan about EVERY SINGLE THING possible 😴👊🏼,Hate people who moan about EVERY SINGLE THING possible 😴👊🏼,0,,exp2
+14973,sign_2261,love it when the hawks choke,love it when the hawks choke,1,hate it when the hawks choke,exp2
+15449,sign_5263,love to see and hear people wildly speculate about crashes on cable news,love to see and hear people wildly speculate about crashes on cable news,1,love to see and hear people wildly speculate about crashes on cable news,exp2
+16512,train_364,Love a good cry 👌🏻,Love a good cry 👌🏻,1,"I would say ""I hate when someone makes me cry""",exp2
+12115,sign_12,love how a lot of ppl quit clash for agar io,love how a lot of ppl quit clash for agar io,1,hate how a lot of ppl quit clash for agar,exp2
+14440,sign_299,love random guys to share their tinder conquests with me,love random guys to share their tinder conquests with me,1,i hate when random guys share their tinder conquests with me,exp2
+13926,sign_5416,love how me and my sister are exactly the same person,love how me and my sister are exactly the same person,1,love how me and my sister are exactly the same person,exp2
+10187,sign_7017,love how fighters show immediate concern for their downed opponents instead of acting like fools,love how fighters show immediate concern for their downed opponents instead of acting like fools,1,fighters usually act like fools,exp2
+12810,sign_6804,love managing to the save,love managing to the save,1,i hate not being able to manage my savings,exp2
+1591,sign_10884,love that the refs r making their presence known,love that the refs r making their presence known,1,hate that the refs r not making their presence known,exp2
+11746,sign_10867,love this feeling,love this feeling,1,hate this feeling,exp2
+2670,sign_2615,love the spanish friars watching jos rizal film,love the spanish friars watching jos rizal film,1,hate the spanish friars watching jos rizal film,exp2
+19862,sign_10886,love that i get to work 6 hours on my day off,love that i get to work 6 hours on my day off,1,hate that i have to work on my usual day off,exp2
+1331,sign_10917,love how someone just copies my tweets and deletes the source of the pics,love how someone just copies my tweets and deletes the source of the pics,1,hate how someone just copy my tweets and don't keep the source of the pics,exp2
+9477,sign_10909,love it when the people you've carried now have the strength to climb over you and leave you behind to never look back,love it when the people you've carried now have the strength to climb over you and leave you behind to never look back,1,hate it when the people you've carried now have the strength to climb over you and leave you behind to never look back,exp2
+15879,sign_10860,love those night flights to europe clt lhr,love those night flights to europe clt lhr,1,i don't like night flights to europe,exp2
+10866,test_a_1120,love when my boss micromanaged me (:,love when my boss micromanaged me (:,1,,exp2
+5484,sign_2257,love having my things stolen and returned broken to me,love having my things stolen and returned broken to me,1,hate having my things stolen and returned broken to me,exp2
+7164,test_a_664,Love the overhead view in the cricket,Love the overhead view in the cricket,0,,exp2
+19239,train_1572,Love that The Paris Hilton doc opens w a Jesus and Mary Chain song,Love that The Paris Hilton doc opens w a Jesus and Mary Chain song,0,,exp2
+18902,test_a_428,Love it when someone with no mask chooses to sit next to me on the bus...😑,Love it when someone with no mask chooses to sit next to me on the bus...😑,1,,exp2
+15741,test_a_1273,Love how politicians are exempt from social distancing and all other restrictions placed on the general public,Love how politicians are exempt from social distancing and all other restrictions placed on the general public,1,,exp2
+18312,train_785,Love it when I forget to transfer my rent money over from my savings 🥴,Love it when I forget to transfer my rent money over from my savings 🥴,1,I really hate forgetting to transfer money for rent,exp2
+7702,sign_4725,love the fact my friends aren't boring and actually come out,love the fact my friends aren't boring and actually come out,1,hate the fact my friends are boring and actually don't come out,exp2
+18942,train_724,Love everything in my basket selling our before the sale was meant to start😒 @ZARA_Care @zara,Love everything in my basket selling our before the sale was meant to start😒 @user @user,1,"I hate everything in my basket selling out before the sale was meant to start""",exp2
+18800,test_a_1323,Love it when you clearly make a restaurant aware of dietary conditions and they ignore it 🥲,Love it when you clearly make a restaurant aware of dietary conditions and they ignore it 🥲,1,,exp2
+3381,train_446,Love that someone broke into my car this morning,Love that someone broke into my car this morning,1,"I could say ""I hate that someone broke into my car this morning.""",exp2
+3287,train_555,Love it when someone buys a £175 coffee machine in Paris with my debit card 😕,Love it when someone buys a £175 coffee machine in Paris with my debit card 😕,1,Gutted that someone has used my card to buy a £175 coffee machine.,exp2
+18270,train_1283,Love how Kingston just ripped the buckle pad off #AEWAllOut,Love how Kingston just ripped the buckle pad off,0,,exp2
+4838,train_475,love waking up in a panic 🥴🥴,love waking up in a panic 🥴🥴,1,I do not like waking up in a panic,exp2
+5350,test_a_1175,love it when R gives me the 500th error code of the day,love it when R gives me the 500th error code of the day,1,,exp2
+6442,test_a_576,"Love a good cat story, especially a Co-op cat... 💙😻💙","Love a good cat story, especially a Co-op cat... 💙😻💙",0,,exp2
+15987,test_a_581,Love it when I get disturbed three times in the bath to be asked where things in the house are!!,Love it when I get disturbed three times in the bath to be asked where things in the house are!!,1,,exp2
+16903,test_a_561,Love it when the milk is out of date when you buy it,Love it when the milk is out of date when you buy it,1,,exp2
+5265,train_90,love getting assignments at 6:25pm on a Friday!!,love getting assignments at 6:25pm on a Friday!!,1,Please do not give me an assignment right before I clock out because now I have to work overtime,exp2
+,lingkling_60802,Love this HD web broadcast of an important Pan Am sports finale. #sarcasm,Love this HD web broadcast of an important Pan Am sports finale.,1,,exp2
+,lingkling_60939,Loving the @BBCSport coverage of #TheOpen  #Sarcasm,Loving the @user coverage of TheOpen,1,,exp2
+,lingkling_61103,Love doing everything for a graduation party that's not even mine!!!! #BestSummerEver #sarcasm,Love doing everything for a graduation party that's not even mine!!!!,1,,exp2
+,lingkling_61841,love being woken up to the sound of my yard being deforested #sarcasm #imissmytrees,love being woken up to the sound of my yard being deforested,1,,exp2
+,lingkling_61864,Loving this sweet smell of cigarette of my invoices #not #sarcasm,Loving this sweet smell of cigarette of my invoices,1,,exp2
+,lingkling_61988,Love being sick 😷 ✌🏼️ #sarcasm,Love being sick 😷 ✌🏼️,1,,exp2
+,lingkling_62219,Love morning traffic in tenby #sarcasm,Love morning traffic in tenby,1,,exp2
+,lingkling_62272,Love doing quarterly VAT. #sarcasm #fuqvat,Love doing quarterly VAT.,1,,exp2
+,lingkling_62478,Love being sarcastic 👌🏼 #Always #Sarcastic #ImmaBitch https://t.co/QzZntOFsdc,Love being sarcastic 👌🏼,1,,exp2
+,lingkling_62906,"Love summer touring, all shorts and bbqs! ! #sarcasm 😐🌊 https://t.co/4DauaQ6ceN","Love summer touring, all shorts and bbqs! ! 😐🌊",1,,exp2
+,lingkling_63137,Love those Final Fantasy-like cut scenes in Lego Jurassic World. #sarcasm,Love those Final Fantasy-like cut scenes in Lego Jurassic World.,1,,exp2
+,lingkling_63386,Love when apps take forever to load for no reason whatsoever #thebest #sarcasm,Love when apps take forever to load for no reason whatsoever,1,,exp2
+,lingkling_63420,Love being alone on a Saturday night #sarcasm,Love being alone on a Saturday night,1,,exp2
+,lingkling_63497,"Loving my Lenovo laptop right now 
+#notmuchatall #sarcasm",Loving my Lenovo laptop right now,1,,exp2
+,lingkling_63544,Love having blisters at the bottom of my feet 😒 #sarcasm,Love having blisters at the bottom of my feet 😒,1,,exp2
+,lingkling_63928,Love this #sarcasm #savioistakingovertheworld https://t.co/apEBwUH2ui,Love this,1,,exp2
+,lingkling_64250,Love it when people text me back #sarcasm,Love it when people text me back,1,,exp2
+,lingkling_64590,Love the feeling of being used... #Sarcasm,Love the feeling of being used...,1,,exp2
+,lingkling_64642,Love mood swings ☺️☺️☺️ #sarcasm,Love mood swings ☺️☺️☺️,1,,exp2
+,lingkling_64661,Love planning my night around someone else. #sarcasm,Love planning my night around someone else.,1,,exp2
+,lingkling_64883,Love going to websites and Facebook pages to find they have not been updated for months or years! #sarcasm,Love going to websites and Facebook pages to find they have not been updated for months or years!,1,,exp2
+,lingkling_65447,Love my job! #sarcasm #Plumbing #DoItForTheBand http://t.co/W9fmUg0i7i,Love my job!,1,,exp2
+,lingkling_66093,Love feeling crazy and insecure... #sarcasm #getittogether #girlproblems,Love feeling crazy and insecure...,1,,exp2
+,lingkling_66094,Love it when they change the destination in the middle of the ride. @MBTA #GreenLine #sarcasm #justincaseyoucouldnttell,Love it when they change the destination in the middle of the ride. @user,1,,exp2
+,lingkling_66163,Love it when my PS3 freezes in the middle of a game #sarcasm #gamerproblems,Love it when my PS3 freezes in the middle of a game,1,,exp2
+,lingkling_66359,Love how supportive my friends are #sarcasm 😊😊😊😊😊😊😊😊😊,Love how supportive my friends are 😊😊😊😊😊😊😊😊😊,1,,exp2
+,lingkling_66602,Love not having any of my civilian clothes down here. #sarcasm #InNeedOfMyStuff,Love not having any of my civilian clothes down here.,1,,exp2
+,lingkling_66893,Love being in a bad mood😊😊😊😊😊😊😊😊😊😊😊😊😊 #sarcasm,Love being in a bad mood😊😊😊😊😊😊😊😊😊😊😊😊😊,1,,exp2
+,lingkling_66916,Love feeling like this 👍👌 #sarcasm,Love feeling like this 👍👌,1,,exp2
+,lingkling_67074,LOVE how school districts are threatening cutbacks b/c of tax cap but never cut back dozens of admins who make $100K+ #Sarcasm #schools,LOVE how school districts are threatening cutbacks b/c of tax cap but never cut back dozens of admins who make $100K+,1,,exp2
+,lingkling_67112,Love it when I can't find my @nikegolf #method putter that I changed out 4a week... #sarcasm #Backshopkids @generalgrieve @McBainJason,Love it when I can't find my @user method putter that I changed out 4a week... @user @user,1,,exp2
+,lingkling_67456,"Love a good Facebook friend clearout, well done to those who survived #sarcasm #facebook","Love a good Facebook friend clearout, well done to those who survived",1,,exp2
+,lingkling_67459,Love being delayed @easyJet #dutyfree #firstworldproblems #sarcasm http://t.co/idydmy9RLh,Love being delayed @user,1,,exp2
+,lingkling_67809,Love when u land and ur gate is still occupied. #sarcasm #delta #wanttogohome #welcometoNY,Love when u land and ur gate is still occupied.,1,,exp2
+,lingkling_68038,Love it when people rush through their presentation / webinar. #sarcasm #slowdown,Love it when people rush through their presentation / webinar.,1,,exp2
+,lingkling_68266,love hearing other people's music on the bus!!! #sarcasm #turnitdown #HaveFunBeingDeff 👋,love hearing other people's music on the bus!!! turnitdown HaveFunBeingDeff 👋,1,,exp2
+,lingkling_68606,Loved being called a consumer and not a citizen @pmharper #sarcasm,Loved being called a consumer and not a citizen @user,1,,exp2
+,lingkling_68792,LOVE the diversity! #GOPDebate #Sarcasm,LOVE the diversity!,1,,exp2
+,lingkling_68903,Love it when people leave me links trying to help me understand why feminism is bad &amp; that men are the only victims of sexism... #sarcasm,Love it when people leave me links trying to help me understand why feminism is bad & that men are the only victims of sexism...,1,,exp2
+,lingkling_69744,Love a firmware update on a NAS. #Sarcastic,Love a firmware update on a NAS.,1,,exp2
+,lingkling_70056,looovve getting raw chicken nuggets from farmer boys 😍 #sarcasm #actuallydisgusting,looovve getting raw chicken nuggets from farmer boys 😍,1,,exp2
+,lingkling_70172,"Love going on break from work only an hour and a half into work, leaving me with 6 and a half more hours to go. #sarcasm","Love going on break from work only an hour and a half into work, leaving me with 6 and a half more hours to go.",1,,exp2
+,lingkling_70303,love how people talk without knowing shit about some things #sarcasm,love how people talk without knowing shit about some things,1,,exp2
+,lingkling_70634,Love it when someone on the bus decides to provide music for everyone.... #sarcastic  #buslife,Love it when someone on the bus decides to provide music for everyone....,1,,exp2
+,lingkling_70700,@joshuahoggard loves road trips with me 🎶🎶 #sarcasm https://t.co/z8RnYWjmCb,@user loves road trips with me 🎶🎶,1,,exp2
+,lingkling_71147,Love those moments when someone looks at you and realizes you are brainy. #shocker #sarcasm,Love those moments when someone looks at you and realizes you are brainy.,1,,exp2
+,lingkling_71393,@Wilnerness590 @Tom_Acorn #sarcasm love it,@user @user love it,1,,exp2
+,lingkling_71814,Love tbat pic so bad :) #sarcasm,Love tbat pic so bad :),1,,exp2
+,lingkling_71872,Love it when men float up in my mentions to tell me things I've personally experienced don't happen 😑 #sarcasm #fuckoff,Love it when men float up in my mentions to tell me things I've personally experienced don't happen 😑,1,,exp2
+,lingkling_71960,Loving our #BritishWeather #Summer #Sarcasm http://t.co/DRLSl55kPH,Loving our British weather,1,,exp2
+,lingkling_72060,Love that #BattleFeel when the @EA_Battlefield just quits and takes you cm ack to the @Xbox home screen #sarcasm,Love that BattleFeel when the @user just quits and takes you cm ack to the @user home screen,1,,exp2
+,lingkling_72282,Love a 5.20am wake up on a Saturday #sarcasm,Love a 5.20am wake up on a Saturday,1,,exp2
+,lingkling_72917,Love that a fourth string QB in the preseason gets som much press! #sarcasm #Tebow,Love that a fourth string QB in the preseason gets som much press!,1,,exp2
+,lingkling_73417,Love when people just sits down and looks at me. #sarcasm,Love when people just sits down and looks at me.,1,,exp2
+,lingkling_73530,Love my phone being dry af #sarcasm,Love my phone being dry af,1,,exp2
+,lingkling_73578,Love the smell of cigarettes in the morning #sarcasm,Love the smell of cigarettes in the morning,1,,exp2
+,lingkling_73767,Love hearing people who are given everything they want on a silver platter complain about their lives 24/7 #sarcasm,Love hearing people who are given everything they want on a silver platter complain about their lives 24/7,1,,exp2
+,lingkling_73963,love when metasequoia crashes in the middle of me actually figuring out what's wrong with the rig #sarcasm,love when metasequoia crashes in the middle of me actually figuring out what's wrong with the rig,1,,exp2
+,lingkling_73977,Love being at work at 5am 😄 #sarcasm,Love being at work at 5am 😄,1,,exp2
+,lingkling_74195,Love when I feel like vomiting and have to leave work early... #sarcasm,Love when I feel like vomiting and have to leave work early...,1,,exp2
+,lingkling_74234,Love that communication 👏 #sarcasm,Love that communication 👏,1,,exp2
+,lingkling_74721,Love that I'm scheduled 35 hours the first week of college #sarcasm 😑😑😑😑,Love that I'm scheduled 35 hours the first week of college 😑😑😑😑,1,,exp2
+,lingkling_74734,Loooooove when people ignore my texts 😒 #sarcastic,Loooooove when people ignore my texts 😒,1,,exp2
+,lingkling_75000,Love it when the questions after a tech talk turn into a personal counseling session #MesosCon #sarcasm,Love it when the questions after a tech talk turn into a personal counseling session,1,,exp2
+,lingkling_76049,Love their excuse when determining who they want to evict/nominate #BB17 #sarcasm  https://t.co/3JLbjz4bnM,Love their excuse when determining who they want to evict/nominate,1,,exp2
+,lingkling_76055,LOVED being rocked to sleep by my neighbors bass permeating the entire building. #sarcasm,LOVED being rocked to sleep by my neighbors bass permeating the entire building.,1,,exp2
+,lingkling_76217,Love seeing someone I really dislike when I am almost at the end of my run #sweaty #lookshit #sarcasm #,Love seeing someone I really dislike when I am almost at the end of my run,1,,exp2
+,lingkling_76675,Love those solicitation emails from random people/companies trying to get added to my LibGuides! #sarcasm #librarianproblems,Love those solicitation emails from random people/companies trying to get added to my LibGuides!,1,,exp2
+,lingkling_76757,"loved today's @SNSwithJKJ. sounds like being pregnant, giving birth, and raising a child is easy, cheap &amp; stress free.
+
+#sarcasm 😏","loved today's @user sounds like being pregnant, giving birth, and raising a child is easy, cheap & stress free. 😏",1,,exp2
+,lingkling_76786,Loving the quality of the roads here in Pennsylvania ... #BumpBump #Sarcasm,Loving the quality of the roads here in Pennsylvania ...,1,,exp2
+,lingkling_77002,Love love love being emotional. #sarcasm,Love love love being emotional.,1,,exp2
+,lingkling_77017,"@SC_Author love how minorities are meant to ""gracefully"" deal with literally everything in a ""calm"" fashion #sarcasm","@user love how minorities are meant to ""gracefully"" deal with literally everything in a ""calm"" fashion",1,,exp2
+,lingkling_77148,Loving the crew jackhammering the sidewalk right outside our office window this morning. #sarcasm,Loving the crew jackhammering the sidewalk right outside our office window this morning.,1,,exp2
+,lingkling_77328,Love how after Mrs.Rempel was asked to have the decency to show respect for the candidates she promptly disregarded it #pnpcbc #sarcasm,Love how after Mrs.Rempel was asked to have the decency to show respect for the candidates she promptly disregarded it,1,,exp2
+,lingkling_77347,Love bad moods that get taken out on me 😅 #sarcasm,Love bad moods that get taken out on me 😅,1,,exp2
+,lingkling_77365,Love when my boss ignores me #not #sarcasm,Love when my boss ignores me,1,,exp2
+,lingkling_77399,Love that #WomensEqualityDay is getting less attention than #NationalDogDay #sarcasm #Trump2016,Love that WomensEqualityDay is getting less attention than,1,,exp2
+,lingkling_77647,Love waking up to the dulcet tones of my neighbour screaming at her kids #sarcasm,Love waking up to the dulcet tones of my neighbour screaming at her kids,1,,exp2
+,lingkling_77726,Love bikers that light their cigarettes before they bike away. #sarcasm,Love bikers that light their cigarettes before they bike away.,1,,exp2
+,lingkling_77988,Love it when memes have typos or bad grammar. #sarcasm #messagenegated,Love it when memes have typos or bad grammar.,1,,exp2
+,lingkling_78085,Love that campfire smell in the air when there's no campfires burning #yycsmoke #sarcasm,Love that campfire smell in the air when there's no campfires burning,1,,exp2
+,lingkling_78164,Loving how #yr crafted a compelling drama around the trials of a bi-polar woman dealing w mental illness while pregnant. #sarcasm,Loving how yr crafted a compelling drama around the trials of a bi-polar woman dealing w mental illness while pregnant.,1,,exp2
+,lingkling_78389,Love busting my ass so the incoming shift can stand around and do nothing #sarcasm #workingstiff #thegrind,Love busting my ass so the incoming shift can stand around and do nothing,1,,exp2
+,lingkling_78445,Love when @MLS app doesn't save my notifications. @MLSsupport #sarcasm http://t.co/GMxdUpLo1H,Love when @user app doesn't save my notifications. @user,1,,exp2
+,lingkling_78764,Love it when @himynameisteph ignores my text messages when I'm having a crisis... #Sarcasm -_-,Love it when @user ignores my text messages when I'm having a crisis... -_-,1,,exp2
+,lingkling_79391,Love how quickly @SkyBet payout #Sarcasm #45minsandcounting,Love how quickly @user payout,1,,exp2
+,lingkling_79792,*love* when someone calls my house asking for my ex. #sarcasm #HeHasntHadThisNumberIn6Years,*love* when someone calls my house asking for my ex.,1,,exp2
+,lingkling_79831,Love those people who dig around for tweets people post after a frustrating loss and decide to retweet them 2 months later. #sarcasm,Love those people who dig around for tweets people post after a frustrating loss and decide to retweet them 2 months later.,1,,exp2
+,lingkling_80149,Love how much time me &amp; my boyfriend spend together.  #sarcasm 😒,Love how much time me & my boyfriend spend together. 😒,1,,exp2
+,lingkling_80287,Love when I get random weather updates from friends. #sarcasm http://t.co/z2295HlHUS,Love when I get random weather updates from friends.,1,,exp2
+,lingkling_80778,Love when your so tired it looks like you have two black eyes 👌 #Sarcasm,Love when your so tired it looks like you have two black eyes 👌,1,,exp2
+,lingkling_81134,Love the white guys 😊 #sarcasm #ihateyall,Love the white guys 😊,1,,exp2
+,lingkling_81169,@linda_her @cheyenn10316666 love how you're comparing gays to Nazis. #Sarcasm,@user @user love how you're comparing gays to Nazis.,1,,exp2
+,lingkling_81339,Love how my phones says twitter stopped working each time I exit the app #sarcasm,Love how my phones says twitter stopped working each time I exit the app,1,,exp2
+,lingkling_81374,@GOtransit @JenLynH Love the detail posted by your website.... #sarcasm,@user @user Love the detail posted by your website....,1,,exp2
+,lingkling_6094,Love the view from my living room... #sarcasm #wtf #whataday https://t.co/N12mrLrJLi,Love the view from my living room...,1,,exp2
+,lingkling_6121,Love receiving lovely comments on my videos #sarcasm http://t.co/9gZSCRETFH,Love receiving lovely comments on my videos,1,,exp2
+,lingkling_6523,Loveeee going to bed alone.👿😩👎🏻 #sarcasm,Loveeee going to bed alone.👿😩👎🏻,1,,exp2
+,lingkling_6532,"Love the judgment you get from people that are older than you, because they're older than you and totally have that right #sarcasm","Love the judgment you get from people that are older than you, because they're older than you and totally have that right",1,,exp2
+,lingkling_6536,Love how @UAlbany_MBB players check my twitter + pick on me by taking what I say in my tweets + publicly laughing at it on twitter. #Sarcasm,Love how @user players check my twitter + pick on me by taking what I say in my tweets + publicly laughing at it on twitter.,1,,exp2
+,lingkling_6744,Love the feeling of being ignored.😍 #sarcasm,Love the feeling of being ignored.😍,1,,exp2
+,lingkling_7058,"Love how Jose Bautista still admires every homerun, even after 272 in his career. #sarcasm","Love how Jose Bautista still admires every homerun, even after 272 in his career.",1,,exp2
+,lingkling_7197,Love coming on here and seeing the aftermath and subtweeting of gay Twitter fights #sarcasm,Love coming on here and seeing the aftermath and subtweeting of gay Twitter fights,1,,exp2
+,lingkling_7336,"Love the back round music !
+#sarcasm
+#WWERaw",Love the back round music !,1,,exp2
+,lingkling_7708,"Love people who act as the ""Social Committee"" at the gym. #focus #sarcasm","Love people who act as the ""Social Committee"" at the gym.",1,,exp2
+,lingkling_7743,Love it when @StarbucksUK make your coffee SO HOT you lose half your tongue #sarcasm,Love it when @user make your coffee SO HOT you lose half your tongue,1,,exp2
+,lingkling_8013,"Love it when people throw a number behind something to imply it's ""real"" or a ""fact"" #sarcasm #LdnOnt","Love it when people throw a number behind something to imply it's ""real"" or a ""fact""",1,,exp2
+,lingkling_42885,Love Lucille's love of life and sense of humor. #joy #humor #style http://t.co/0EM4sbIAxc,Love Lucille's love of life and sense of humor.,0,,exp2
+,lingkling_42974,😍Love my job😍 #humor 😄 http://t.co/3CEyr8ixOf,😍Love my job😍😄,0,,exp2
+,lingkling_45617,Love this from @lightersideofre! #realestate #sell #humor http://t.co/aMHstrlfVb,Love this from @user,0,,exp2
+,lingkling_45932,Loving these dance videos Pastor @perrynoble has posted on FB and Twitter! 😄😄😄😄 #GoodFun #Humor,Loving these dance videos Pastor @user has posted on FB and Twitter! 😄😄😄😄,0,,exp2
+,lingkling_48553,Love is more than a word ~ #peace #love 💚✌ http://t.co/39jN96KKD9,Love is more than a word ~ 💚✌,0,,exp2
+,lingkling_50192,Love the shout out http://t.co/pxAJz9eM5v #follow #live #life #hard #seek #love #find #peace #Motivational… https://t.co/cEnmmylkyB,Love the shout out,0,,exp2
+,lingkling_50568,Love is never Wrong #late https://t.co/LSmlLrsBnf,Love is never Wrong,0,,exp2
+,lingkling_51669,"Lovin this song, #BIGUP 2 @Dre_island1-On Time  https://t.co/gyCidHdmPW #Jah #Will #Be #On #Time #Reggae #Music #Love #Peace #Struggles #Dre","Lovin this song, BIGUP 2 @user Time",0,,exp2
+,lingkling_51721,Love this pic so muchh!! #selfie #whiteboy #haironfleek #peace https://t.co/8QyPamS2a2,Love this pic so muchh!!,0,,exp2
+,lingkling_53799,Love me a good #selfie #RT #girlswholikegirls #girlswithtattoos #late #relaxing http://t.co/OJJzdYYU9G,Love me a good selfie,0,,exp2
+,lingkling_54391,Love this quote 👌 #qotd #jimihendrix #love #power #peace https://t.co/7AIpOpBFq8,Love this quote 👌,0,,exp2
+,lingkling_54419,Love this peace around me... #sea #summer #sunset #venice #instadaily #enjoy #peace #photooftheday… https://t.co/r6Zc5nSymy,Love this peace around me...,0,,exp2
+,lingkling_54461,Love this peaceful photo #inspiration #peace #samglenn https://t.co/JUSVo14wFp,Love this peaceful photo,0,,exp2
+,lingkling_56404,Love all of You. 💕🐝🍃 #Peace #love #goodvibes #positivevibes,Love all of You. 💕🐝🍃,0,,exp2
+,lingkling_56989,Love the Lady Chapel at St Nicholas' @CanveyCofE #peace http://t.co/4cOdfVPvbV,Love the Lady Chapel at St Nicholas' @user,0,,exp2
+,lingkling_59681,Love living in #sussex on such a beautiful day #Peace 🌞🌿🍂🌺🌲🌳 http://t.co/KWquCmTEKn,Love living in sussex on such a beautiful day 🌞🌿🍂🌺🌲🌳,0,,exp2
+,lingkling_4219,@keyizzle_ @erkyshy @shakeyupnext @loveylmd_ love you moreeee #late,@user @user @user @user love you moreeee,0,,exp2
+,lingkling_4229,Love my Fat Asian but he has no concept of time. #wealwayslate #late #15moreminutes,Love my Fat Asian but he has no concept of time.,0,,exp2
+,lingkling_4555,Loving my new vehicle! #Freedom #peace #hard-work #mentesanacuerposano #salud https://t.co/hG3x1ILmeZ,Loving my new vehicle!,0,,exp2
+,lingkling_5907,Love my email about the @nextofficial sale starting tomorrow (sat 26) received today at 00.03 ! #late http://t.co/SArGWZEyVH,Love my email about the @user sale starting tomorrow (sat 26) received today at 00.03 !,0,,exp2
+5002,test_a_921,"I really loved the drive into work today in the dark, wet, heavy rain","I really loved the drive into work today in the dark, wet, heavy rain",1,,exp3
+1377,sign_3530,i just looooove getting big cases on friday afternoons,i just looooove getting big cases on friday afternoons,1,i just hate getting big cases on friday afternoons,exp3
+3297,sign_12376,i just love it when people near and dear to me act like they care that i'm really sick with a fever,i just love it when people near and dear to me act like they care that i'm really sick with a fever,1,no one seems to care that i'm sick,exp3
+2404,train_2773,man I really hate seeing two fucking idiots raising a baby,man I really hate seeing two fucking idiots raising a baby,0,,exp3
+10364,test_a_873,I really hate being stuck at home thanks to the governments lack of controls on covid in school.,I really hate being stuck at home thanks to the governments lack of controls on covid in school.,0,,exp3
+13608,train_2450,I absolutely hate when players do that dumb early celebration nonsense,I absolutely hate when players do that dumb early celebration nonsense,0,,exp3
+4821,sign_3549,i absolutely love how my mom doesn't believe a damn word i say,i absolutely love how my mom doesn't believe a damn word i say,1,i really don't like how my mom doesn't believe a damn word i say,exp3
+8042,sign_12009,i really love enrollments,i really love enrollments,1,i really hate enrollments,exp3
+15087,sign_12389,i just love going down my timeline to see one of my friends post negativety for the last 2 days,i just love going down my timeline to see one of my friends post negativety for the last 2 days,1,i hate the negative posts on my timeline,exp3
+15507,sign_2773,i just love having to get my car towed on a sunday when i work the next day,i just love having to get my car towed on a sunday when i work the next day,1,i just hate having to get my car towed on a sunday when i work the next day,exp3
+10020,sign_4662,and i just love cardio,and i just love cardio,1,i hate cardio,exp3
+17811,sign_7181,i just love how people do the total opposite of what my pinned tweet says,i just love how people do the total opposite of what my pinned tweet says,1,i hate how people do the total opposite of what my pinned tweet says,exp3
+4817,sign_12360,i just love walking in the rain,i just love walking in the rain,1,i don't like walking in the rain,exp3
+3637,sign_12712,i always love seeing people in workout clothes smoking,i always love seeing people in workout clothes smoking,1,i always hate seeing people who don t in workout clothes not smoking,exp3
+11809,sign_2641,i totally love life so much,i totally love life so much,1,i don t love my life at all,exp3
+14384,sign_604,i really love how people have to read the sign out loud as they come in,i really love how people have to read the sign out loud as they come in,1,i cant stand how people have to read the sign out loud as they come in,exp3
+8867,sign_12725,i absolutely love driving all over the place in the rain and lightning,i absolutely love driving all over the place in the rain and lightning,1,i don't like driving in bad weather,exp3
+18588,sign_3927,i just love it when it storms,i just love it when it storms,1,i hate storms,exp3
+2738,sign_7863,woop i just love having shitty dreams that make me sad in real life,woop i just love having shitty dreams that make me sad in real life,1,i hate bad dreams,exp3
+4555,sign_3202,i just love when people that don't live in nyc try to tell me what is and isn't safe in this city,i just love when people that don't live in nyc try to tell me what is and isn't safe in this city,1,i am annoyed when people who don't live in nyc talk how it is and about its safety,exp3
+8411,sign_12396,i just love getting email addressed as hi gmail or hi first name or similar,i just love getting email addressed as hi gmail or hi first name or similar,1,i don't like receiving automated emails,exp3
+8203,sign_7147,i so love when people spout out about things they have no idea about,i so love when people spout out about things they have no idea about,1,people shouldn't talk about the things they don't have a clue about,exp3
+17576,sign_2401,i just love how my mom takes phone calls while she's filling out her portion of my fafsa sarcasm,i just love how my mom takes phone calls while she's filling out her portion of my fafsa,1,i just hate how my mom takes phone calls while she's filling out her portion of my fafsa,exp3
+11589,test_c_35,"I just love Christmas time, when goodwill abounds in every shop","I just love Christmas time, when goodwill abounds in every shop",1,Why are people so rude and pushy in shops at Christmas?,exp3
+357,sign_5468,i really do love it when people copy me,i really do love it when people copy me,1,i really do hate it when people copy me,exp3
+17514,train_655,I just love falling up the stairs 😑,I just love falling up the stairs 😑,1,I really don't like falling up the stairs.,exp3
+6774,sign_5371,i just love watching sports,i just love watching sports,1,i don t like watching sports,exp3
+16199,sign_12359,i just love washing my hands in water piped in from the great arctic melt,i just love washing my hands in water piped in from the great arctic melt,1,i just hate washing my hands in icy cold water,exp3
+16152,sign_11990,i really love it when someone drinks the last of the coffee and doesn't make another pot,i really love it when someone drinks the last of the coffee and doesn't make another pot,1,i don't like when people drink all the coffee and don't make more,exp3
+629,sign_12405,i just love all the stupid workouts on pinterest,i just love all the stupid workouts on pinterest,1,i do not like the workouts on pinterest,exp3
+10313,test_a_1248,"Boy, I sure do love being constantly misgendered by my cis relatives at family gatherings 🙃","Boy, I sure do love being constantly misgendered by my cis relatives at family gatherings 🙃",1,,exp3
+11074,train_142,Man I just love it when I'm forced to pitch two games back to back bc our other pitcher didn't show up,Man I just love it when I'm forced to pitch two games back to back bc our other pitcher didn't show up,1,Pitching two games back to back is exhausting.,exp3
+14578,sign_14690,i just love when customers make me repeat myself,i just love when customers make me repeat myself,1,i hate when customers make me repeat myself,exp3
+15265,train_53,"I just absolutely LOVE how I've got to work outside for the next 3 days in the heatwave.
+
+#sweatingmyballsoff",I just absolutely LOVE how I've got to work outside for the next 3 days in the heatwave.,1,I hate working outside in the heat.,exp3
+12485,test_a_944,I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!,I absolutely love it when its pouring down with rain on a Monday morning and I forget my umbrella!,1,,exp3
+995,train_2456,i just love everyone posting wholesome pics with their pets when theyre home for break,i just love everyone posting wholesome pics with their pets when theyre home for break,0,,exp3
+4570,test_a_848,I just love the smell of one million 😍,I just love the smell of one million 😍,0,,exp3
+857,test_a_731,I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,I really love finishing my term with an period of enforced isolation thanks to the amazing governments controls on covid in school.,1,,exp3
+,lingkling_60776,I really love when people follow me 92726228 different times. #sarcastic #pleasestop,I really love when people follow me 92726228 different times.,1,,exp3
+,lingkling_61114,I just love it when I'm watching a trailer and 50%/60% is solely used for branding &lt;3 #sarcasm,I just love it when I'm watching a trailer and 50%/60% is solely used for branding <3,1,,exp3
+,lingkling_61229,I just LOVE checking email on my tiny cellphone by candlelight #sarcasm,I just LOVE checking email on my tiny cellphone by candlelight,1,,exp3
+,lingkling_61273,I just love disassociating (: #sarcasm,I just love disassociating (:,1,,exp3
+,lingkling_61523,I just love when anxiety hits and there's nothing you can do! #Sarcasm 😭,I just love when anxiety hits and there's nothing you can do! 😭,1,,exp3
+,lingkling_61741,I just love coworkers who won't stop complaining about everything and everyone. #sarcasm #stfumarianne,I just love coworkers who won't stop complaining about everything and everyone.,1,,exp3
+,lingkling_62098,I just love it when people are rude... 😐😐😐 #sarcasm,I just love it when people are rude... 😐😐😐,1,,exp3
+,lingkling_62381,I just love how white people get to decide on what's racist and what's not. #sarcasm,I just love how white people get to decide on what's racist and what's not.,1,,exp3
+,lingkling_62522,I just love PSC so much! #Sarcasm,I just love PSC so much!,1,,exp3
+,lingkling_63467,I just love being used #sarcasm,I just love being used,1,,exp3
+,lingkling_63474,I just love my job lol #sarcasm,I just love my job lol,1,,exp3
+,lingkling_63701,I really love having guest over and seeing my bathroom in your selfies. #sarcasm,I really love having guest over and seeing my bathroom in your selfies.,1,,exp3
+,lingkling_63963,I just love lame excuses! 💜 #sarcasm,I just love lame excuses! 💜,1,,exp3
+,lingkling_64641,I absolutely love when Twitter stops loading 😍 #sarcastic,I absolutely love when Twitter stops loading 😍,1,,exp3
+,lingkling_64692,I just love how everyone snapchats me back! #sarcasm,I just love how everyone snapchats me back!,1,,exp3
+,lingkling_64725,I just love when my laptop freezes forcing me to shut it off improperly. #Sarcasm #NotAmused,I just love when my laptop freezes forcing me to shut it off improperly.,1,,exp3
+,lingkling_64865,Man I just love annoying people #sarcasm,Man I just love annoying people,1,,exp3
+,lingkling_64976,I just love seeing seeing wrinkly old man peen first thing in the morning.  #sarcasm #noidont,I just love seeing seeing wrinkly old man peen first thing in the morning.,1,,exp3
+,lingkling_65055,I just love two-faced people! -.- #sarcasm #annoyed #itwillcomebackandbiteyou,I just love two-faced people! -.-,1,,exp3
+,lingkling_65238,I absolutely love sweating immediately upon exiting the shower. #Sarcasm,I absolutely love sweating immediately upon exiting the shower.,1,,exp3
+,lingkling_65536,@Ludakrisi I especially love being added to their group. #Sarcasm 😕,@user I especially love being added to their group. 😕,1,,exp3
+,lingkling_65660,I absolutely love when I spend 2 hours on a song and it doesn't save. #sarcasm,I absolutely love when I spend 2 hours on a song and it doesn't save.,1,,exp3
+,lingkling_65719,I just love when a specific fly won't leave me alone outside #sarcasm #dieplease,I just love when a specific fly won't leave me alone outside,1,,exp3
+,lingkling_65916,I just LOVE it when people read my texts and don't reply😊 #sarcasm,I just LOVE it when people read my texts and don't reply😊,1,,exp3
+,lingkling_65995,"I just looooooove sitting through visitation hearings. #sarcasm 
+#familylaw",I just looooooove sitting through visitation hearings.,1,,exp3
+,lingkling_66076,I just love arts and crafts and hot glue guns.. 😒 #sarcasm,I just love arts and crafts and hot glue guns.. 😒,1,,exp3
+,lingkling_66244,I just loooove being ignored #sarcasm,I just loooove being ignored,1,,exp3
+,lingkling_66468,I just love how I've been working here for 6 months but they still call me Ashley   #sarcasm,I just love how I've been working here for 6 months but they still call me Ashley,1,,exp3
+,lingkling_66982,I absolutely love when people ignore me #sarcasm #noonewillreadthis #foreveralone #lol,I absolutely love when people ignore me,1,,exp3
+,lingkling_67244,I fucking love paying my own tuition #sarcasm,I fucking love paying my own tuition,1,,exp3
+,lingkling_67599,I just love when I'm asked my opinion and then told I'm wrong and just trying to argue. #sarcasm,I just love when I'm asked my opinion and then told I'm wrong and just trying to argue.,1,,exp3
+,lingkling_67779,I just love being my Mom's little errand boy 😑 #sarcasm,I just love being my Mom's little errand boy 😑,1,,exp3
+,lingkling_67980,I just love this feeling of wtf is next?! #uncertainty #anticipation #rollseyes #sarcasm,I just love this feeling of wtf is next?!,1,,exp3
+,lingkling_68224,"Why yes, I just LOVE playing babysitter when we were supposed to go out and have a fun time together.... #sarcasm","Why yes, I just LOVE playing babysitter when we were supposed to go out and have a fun time together....",1,,exp3
+,lingkling_68413,I honestly love Cara Delevingne 😍 #gorgeous #talented #sarcastic,I honestly love Cara Delevingne 😍,1,,exp3
+,lingkling_68646,I really love @realDonaldTrump answers #sarcasm  #GOPDebate,I really love @user answers,1,,exp3
+,lingkling_68747,"I just love it how my ""bestfriend"" dumps me for her boyfriend! 
+   #sarcasm #thanksnothanks","I just love it how my ""bestfriend"" dumps me for her boyfriend!",1,,exp3
+,lingkling_69190,I just love when you just leave me hanging when you text me!!!!!😄😄 #sarcasm 😒,I just love when you just leave me hanging when you text me!!!!!😄😄 😒,1,,exp3
+,lingkling_69316,I FUCKING LOVE SPAM MARKETING TEXTS &gt;:( #sarcasm,I FUCKING LOVE SPAM MARKETING TEXTS >:(,1,,exp3
+,lingkling_69388,I just loooooove being told to lower my standards. #sarcasm,I just loooooove being told to lower my standards.,1,,exp3
+,lingkling_69445,I just LOVE when baby boomers speak about what's wrong with millennials #tellmemore #sarcasm,I just LOVE when baby boomers speak about what's wrong with millennials,1,,exp3
+,lingkling_69498,Lol I just love working in 104 degree weather #sarcasm,Lol I just love working in 104 degree weather,1,,exp3
+,lingkling_69571,"Oh i just love twitter updates!
+#sarcasm",Oh i just love twitter updates!,1,,exp3
+,lingkling_69656,I just love spilling a full glass of wine all over myself #Sarcastic,I just love spilling a full glass of wine all over myself,1,,exp3
+,lingkling_69996,I just love when people call me when I'm busy. #sarcasm #funny #joke,I just love when people call me when I'm busy.,1,,exp3
+,lingkling_70140,God I fucking love Mondays! #sarcasm #canIgohomenow,God I fucking love Mondays!,1,,exp3
+,lingkling_70385,Some days I really love my kids lol! #sarcastic,Some days I really love my kids lol!,1,,exp3
+,lingkling_70924,I just love getting voicemails of people breathing for a second then hanging up the phone. #sarcasm,I just love getting voicemails of people breathing for a second then hanging up the phone.,1,,exp3
+,lingkling_71132,"I just love helping guys who have the mentality that ""women are idiots"". #sarcasm","I just love helping guys who have the mentality that ""women are idiots"".",1,,exp3
+,lingkling_71149,I just love it when my client doesn't show up to court. #sarcasm,I just love it when my client doesn't show up to court.,1,,exp3
+,lingkling_71195,"I just love it when it's 88° and sunny outside, no clouds, and go to the pool for a quick swim and it's closed #notcool #sarcasm #nowwhat","I just love it when it's 88° and sunny outside, no clouds, and go to the pool for a quick swim and it's closed",1,,exp3
+,lingkling_71327,I just love it when people don't understand my #sarcasm :/,I just love it when people don't understand my sarcasm :/,1,,exp3
+,lingkling_71416,I just love when the owner of the car you're parking next to just sits there and watches you park. #makesmenervous #sarcasm,I just love when the owner of the car you're parking next to just sits there and watches you park.,1,,exp3
+,lingkling_72007,I just love how fucking rude people are #sarcasm #rude #assholes,I just love how fucking rude people are,1,,exp3
+,lingkling_72056,I just totally love going 10-20 miles under the limit going towards Richmond Rd #Sarcasm,I just totally love going 10-20 miles under the limit going towards Richmond Rd,1,,exp3
+,lingkling_72159,"I really love airport delays
+#sarcasm",I really love airport delays,1,,exp3
+,lingkling_72260,I just love it when my brother gets himself hurt at work being an idiot so I get stuck with the closing shift. #sarcasm,I just love it when my brother gets himself hurt at work being an idiot so I get stuck with the closing shift.,1,,exp3
+,lingkling_72300,I just love it when ppl outside Māori communities feel privileged enough to determine certain MP's dgaf about their own ppl. #sarcasm,I just love it when ppl outside Māori communities feel privileged enough to determine certain MP's dgaf about their own ppl.,1,,exp3
+,lingkling_72731,I just love how my boyf treats me sometimes ☺️☺️ #sarcasm,I just love how my boyf treats me sometimes ☺️☺️,1,,exp3
+,lingkling_73172,"I just love sarcasm.
+#sexting #funny #sarcasm #feminist #feminism  https://t.co/ggztRhyDua",I just love sarcasm.,1,,exp3
+,lingkling_73252,I just lovee it when you're snapchatting someone and they stop responding in the middle of the conversation👌🏼 #sarcasm #followforfollow,I just lovee it when you're snapchatting someone and they stop responding in the middle of the conversation👌🏼,1,,exp3
+,lingkling_73321,i just LOVE when people on tumblr put other people's art up without proper credit. #sarcasm,i just LOVE when people on tumblr put other people's art up without proper credit.,1,,exp3
+,lingkling_73652,I just love hearing rumors about my life from other people. #sarcasm,I just love hearing rumors about my life from other people.,1,,exp3
+,lingkling_73719,@RevDaniel oh I just *Love* explaining the difference between The Bible and Poor Richards Almanac to people #sarcasm,@user oh I just *Love* explaining the difference between The Bible and Poor Richards Almanac to people,1,,exp3
+,lingkling_73844,I just love people with shitty attitudes #sarcasm,I just love people with shitty attitudes,1,,exp3
+,lingkling_73934,I just love watching all my friends get their happy endings while I just sit here secretly miserable. #sarcasm,I just love watching all my friends get their happy endings while I just sit here secretly miserable.,1,,exp3
+,lingkling_74490,I just love when people take out their problems on me #sarcasm #imnotyourpunchingbag #lookatthewholepicture,I just love when people take out their problems on me,1,,exp3
+,lingkling_74655,Oh man i just loveeeee school #sarcasm,Oh man i just loveeeee school,1,,exp3
+,lingkling_75033,I sure love gaining weight! #sarcasm,I sure love gaining weight!,1,,exp3
+,lingkling_75055,I absolutely love how selfish people are #sarcasm,I absolutely love how selfish people are,1,,exp3
+,lingkling_75352,I absolutely love closing the restaurant and then coming back to help with breakfast deliveries. #sarcasm #jobsecurity,I absolutely love closing the restaurant and then coming back to help with breakfast deliveries.,1,,exp3
+,lingkling_75395,I just love how you can still get under my skin.. #sarcasm,I just love how you can still get under my skin..,1,,exp3
+,lingkling_75470,I just love monthly maintenance and installing f%#n MS security patches on Saturday. #sarcasm #infosec #it #microsoft http://t.co/a5KwtvpMJe,I just love monthly maintenance and installing f%n MS security patches on Saturday.,1,,exp3
+,lingkling_75739,I just love spending my weekend watching movies where Morgan Freeman is God. #Sarcasm,I just love spending my weekend watching movies where Morgan Freeman is God.,1,,exp3
+,lingkling_75841,i just love when people stare at me #sarcasm like idek know what is going through their minds 👽😶,i just love when people stare at me like idek know what is going through their minds 👽😶,1,,exp3
+,lingkling_76240,I just love edm twitter whenever a lineup gets announced! #sarcasm,I just love edm twitter whenever a lineup gets announced!,1,,exp3
+,lingkling_76752,I just love being sick on the second day of classes. #sarcasm,I just love being sick on the second day of classes.,1,,exp3
+,lingkling_76807,I just love watching FedEx truck speeding through my neighborhood on rainy days while kids are getting off a school bus.  #sarcasm,I just love watching FedEx truck speeding through my neighborhood on rainy days while kids are getting off a school bus.,1,,exp3
+,lingkling_76973,I just love studying fluid mechanics #sarcasm #idratherstudyelectromagnetics #nerdproblems #procrastination,I just love studying fluid mechanics,1,,exp3
+,lingkling_77383,"Man, I just love it when random people that don't know me start following me on here #sarcasm","Man, I just love it when random people that don't know me start following me on here",1,,exp3
+,lingkling_77387,I just love being super under staffed at work. #sarcasm,I just love being super under staffed at work.,1,,exp3
+,lingkling_78430,I just love when people talk to me like I'm a child and assume I don't know what I'm doing. #sarcasm #dontstartwithme,I just love when people talk to me like I'm a child and assume I don't know what I'm doing.,1,,exp3
+,lingkling_78432,I also love sitting near the back and have some prat who can't shut a door #Sarcasm,I also love sitting near the back and have some prat who can't shut a door,1,,exp3
+,lingkling_78435,I just love sitting on the train when I'm tired and have someone in the carriage chatting nonsense constantly #Sarcasm,I just love sitting on the train when I'm tired and have someone in the carriage chatting nonsense constantly,1,,exp3
+,lingkling_78545,I just love walking down the street and getting cat called #sarcasm,I just love walking down the street and getting cat called,1,,exp3
+,lingkling_78581,Man I just love going to the movies solo... #sarcasm,Man I just love going to the movies solo...,1,,exp3
+,lingkling_78907,"I just ""love"" staying home all weekend #sarcasm","I just ""love"" staying home all weekend",1,,exp3
+,lingkling_78964,I truly love getting a text then replying and never hearing from them again #sarcasm,I truly love getting a text then replying and never hearing from them again,1,,exp3
+,lingkling_78990,I just love when @my_pricechopper says they can't ring my stuff up because the systems are down and they do anyway. #sarcasm,I just love when @user says they can't ring my stuff up because the systems are down and they do anyway.,1,,exp3
+,lingkling_79627,I also love their confusion as to why someone would dare love a thing they don't. #sarcasm,I also love their confusion as to why someone would dare love a thing they don't.,1,,exp3
+,lingkling_79650,I just love having my days off during the week!! #sarcasm,I just love having my days off during the week!!,1,,exp3
+,lingkling_80046,"Man, I just love the way the Pirates play the Brewers! ... #sarcasm","Man, I just love the way the Pirates play the Brewers! ...",1,,exp3
+,lingkling_80392,I just love silent car rides. #sarcasm,I just love silent car rides.,1,,exp3
+,lingkling_80766,@Walmart I just LOVE being treated like an imbecile by your cashiers and dealing with your lazy CSMs in #Lincoln #Illinois. #0199 #sarcasm,"@user I just LOVE being treated like an imbecile by your cashiers and dealing with your lazy CSMs in Lincoln, Illinois",1,,exp3
+,lingkling_81049,jk I absolutely love essays #sarcasm,jk I absolutely love essays,1,,exp3
+,lingkling_6131,I just love it when someone books training for me at a time before I would usually even be at work. #sarcasm #earlystart,I just love it when someone books training for me at a time before I would usually even be at work.,1,,exp3
+,lingkling_6435,I just loooove working at 6:30 am. #sarcasm,I just loooove working at 6:30 am.,1,,exp3
+,lingkling_6466,I absolutely love being woken up during a good sleep! #sarcasm,I absolutely love being woken up during a good sleep!,1,,exp3
+,lingkling_6535,I just love when my eczema flares up 😊 #Sarcasm,I just love when my eczema flares up 😊,1,,exp3
+,lingkling_6713,I absolutely love seeing people say they need a break from their kid(s). #sarcasm,I absolutely love seeing people say they need a break from their kid(s).,1,,exp3
+,lingkling_7036,I totally love how every couple of months my wisdom teeth start to come in and hurt extremely bad #sarcasm,I totally love how every couple of months my wisdom teeth start to come in and hurt extremely bad,1,,exp3
+,lingkling_7067,I just love Ramirez being on the Pirates now... #sarcasm,I just love Ramirez being on the Pirates now...,1,,exp3
+,lingkling_7319,I just LOVE how I am always the second option... 😒t #sarcasm,I just LOVE how I am always the second option... 😒t,1,,exp3
+,lingkling_7480,"I just love how you can tell when the step-douche is about to start a fight, especially when he's drunk. #sarcasm","I just love how you can tell when the step-douche is about to start a fight, especially when he's drunk.",1,,exp3
+,lingkling_7493,I just love waking up before the sun on a Sat morning! #sarcasm,I just love waking up before the sun on a Sat morning!,1,,exp3
+,lingkling_7851,I just love waking up to a nosebleed. #sarcasm,I just love waking up to a nosebleed.,1,,exp3
+,lingkling_7869,I just love being cornered and having to speak/defend all of feminism and every feminist who has ever walked the earth. #sarcasm,I just love being cornered and having to speak/defend all of feminism and every feminist who has ever walked the earth.,1,,exp3
+,lingkling_7892,I just love getting text from nurses at seven am... #sarcasm,I just love getting text from nurses at seven am...,1,,exp3
+,lingkling_8002,I just love hanging with super conservative people who love telling me their viewpoints on every single topic #sarcasm,I just love hanging with super conservative people who love telling me their viewpoints on every single topic,1,,exp3
+,lingkling_8050,I just love it when male customers use the restroom at my store and forget how to flush a toilet. #Sarcasm,I just love it when male customers use the restroom at my store and forget how to flush a toilet.,1,,exp3
